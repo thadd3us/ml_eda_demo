@@ -1,0 +1,31 @@
+name: ml_eda_demo
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Building blocks.
+  - numpy
+  - pandas
+
+  # Machine learning.
+  - scikit-learn
+  - umap-learn
+
+  # Data visualization.
+  - plotly
+  - matplotlib
+  # # Doesn't work on M1 Macs from conda: https://github.com/plotly/Kaleido/issues/70
+  # - python-kaleido   
+
+  # Generally handy.
+  - pytest
+  - tqdm
+  - jupyterlab
+  - jupyter_http_over_ws  # Run in Google Colab.
+
+  # https://github.com/computational-cell-analytics/micro-sam
+  - micro_sam
+  - napari
+  - pyqt
