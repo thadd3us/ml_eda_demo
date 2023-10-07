@@ -1,0 +1,1001 @@
+filename,hospital,radiologist,manufacturer_model_name,dicom_version,view,tube_voltage,Tube Current (mA),image_width,image_height,normal_chest_xray
+chest_xray_00000.dicom,Trinity Clinic,Dr. Laura Smith,Philips DigitalDiagnost,5.5.2.1,AP,Variable kVp,400 mA,2000,1800,False
+chest_xray_00001.dicom,Trinity Clinic,Dr. Michael Patel,Toshiba Infinix-i Sky,2.1.3.4,AP,120 kVp,200 mA,1300,1000,True
+chest_xray_00002.dicom,Rosemary General Hospital,Dr. Kevin Walker,Siemens Ysio Max,4.1.6.3,AP,80 kVp (pediatric),400 mA,1500,1900,True
+chest_xray_00003.dicom,Riverside Community Hospital,Dr. Laura Smith,Siemens Ysio Max,3.2.0.5,AP,120 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00004.dicom,Love Hospital Center,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00005.dicom,Noble Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,2.1.3.4,PA,100 kVp,200 mA,1300,1900,True
+chest_xray_00006.dicom,Riverside Community Hospital,Dr. David Lee,Siemens Ysio Max,4.0.1,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00007.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,3.2.0.5,AP,140 kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00008.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,1.7.3,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00009.dicom,Rosemary General Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,PA,120 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00010.dicom,Rosemary General Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,120 kVp,100 mA,1100,1100,False
+chest_xray_00011.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Toshiba Infinix-i Sky,2.0.0.8,PA,140 kVp,400 mA,1500,1100,True
+chest_xray_00012.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,1.7.3,AP,100 kVp,Automatic exposure control (AEC),1500,1000,True
+chest_xray_00013.dicom,Love Hospital Center,Dr. Jessica Martinez,Siemens Ysio Max,4.0.1,PA,Variable kVp,200 mA,1100,1900,True
+chest_xray_00014.dicom,Trinity Clinic,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,AP,80 kVp (pediatric),200 mA,1900,1300,True
+chest_xray_00015.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Philips DigitalDiagnost,3.2.0.5,AP,120 kVp,100 mA,2000,1800,False
+chest_xray_00016.dicom,Rosemary General Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,3.2.0.5,AP,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00017.dicom,Grand Meadow Medical Center,Dr. Brian Wilson,Toshiba Infinix-i Sky,3.2.0.5,PA,140 kVp,Low mA (low-dose),1900,1100,True
+chest_xray_00018.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Toshiba Infinix-i Sky,5.5.2.1,PA,Variable kVp,200 mA,2000,1800,False
+chest_xray_00019.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,100 kVp,200 mA,1300,1300,True
+chest_xray_00020.dicom,Noble Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,1.7.3,PA,140 kVp,400 mA,1500,1500,True
+chest_xray_00021.dicom,Stillwater General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,2.0.0.8,AP,140 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00022.dicom,Noble Community Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.0.1,AP,80 kVp (pediatric),400 mA,1500,1900,True
+chest_xray_00023.dicom,Love Hospital Center,Dr. Laura Smith,Philips DigitalDiagnost,2.1.3.4,AP,80 kVp (pediatric),Automatic exposure control (AEC),1300,1300,True
+chest_xray_00024.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,5.5.2.1,PA,100 kVp,100 mA,1100,1000,True
+chest_xray_00025.dicom,Love Hospital Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,5.5.2.1,AP,100 kVp,100 mA,1500,1300,True
+chest_xray_00026.dicom,Love Hospital Center,Dr. Christopher Davis,Philips DigitalDiagnost,5.5.2.1,AP,140 kVp,100 mA,1300,1100,True
+chest_xray_00027.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,Low mA (low-dose),1100,1500,True
+chest_xray_00028.dicom,Summerstone Medical Center,Dr. Emily Johnson,GE Healthcare Discovery XR656,3.2.0.5,PA,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00029.dicom,Summerstone Medical Center,Dr. Brian Wilson,Philips DigitalDiagnost,2.0.0.8,AP,80 kVp (pediatric),Automatic exposure control (AEC),1300,1500,True
+chest_xray_00030.dicom,Trinity Clinic,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,1.7.3,AP,80 kVp (pediatric),100 mA,1100,1500,True
+chest_xray_00031.dicom,Summerstone Medical Center,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,120 kVp,100 mA,1300,1000,True
+chest_xray_00032.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Siemens Ysio Max,1.7.3,AP,80 kVp (pediatric),400 mA,1500,1100,True
+chest_xray_00033.dicom,Love Hospital Center,Dr. Laura Smith,GE Healthcare Discovery XR656,2.1.3.4,AP,80 kVp (pediatric),100 mA,1100,1900,True
+chest_xray_00034.dicom,Love Hospital Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.1.6.3,AP,100 kVp,400 mA,1900,1100,True
+chest_xray_00035.dicom,Trinity Clinic,Dr. Kevin Walker,Siemens Ysio Max,4.0.1,PA,80 kVp (pediatric),200 mA,1900,1100,True
+chest_xray_00036.dicom,Noble Community Hospital,Dr. David Lee,Siemens Ysio Max,2.1.3.4,PA,80 kVp (pediatric),400 mA,1900,1000,False
+chest_xray_00037.dicom,Animas Medical Clinic,Dr. Brian Wilson,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,200 mA,1500,1300,True
+chest_xray_00038.dicom,Rosemary General Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,4.0.1,PA,120 kVp,400 mA,1500,1900,True
+chest_xray_00039.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,3.2.0.5,AP,140 kVp,400 mA,1100,1300,True
+chest_xray_00040.dicom,Stillwater General Hospital,Dr. Michael Patel,Siemens Ysio Max,1.7.3,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00041.dicom,Summerstone Medical Center,Dr. Laura Smith,Toshiba Infinix-i Sky,4.0.1,PA,140 kVp,100 mA,1300,1300,True
+chest_xray_00042.dicom,Animas Medical Clinic,Dr. Kevin Walker,Philips DigitalDiagnost,1.7.3,AP,Variable kVp,100 mA,1100,1300,True
+chest_xray_00043.dicom,Love Hospital Center,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00044.dicom,Animas Medical Clinic,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00045.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,200 mA,1100,1500,True
+chest_xray_00046.dicom,Rosemary General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,3.2.0.5,PA,140 kVp,400 mA,1300,1900,True
+chest_xray_00047.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Philips DigitalDiagnost,2.0.0.8,AP,120 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00048.dicom,Noble Community Hospital,Dr. Laura Smith,Toshiba Infinix-i Sky,1.7.3,PA,120 kVp,Automatic exposure control (AEC),1100,1900,True
+chest_xray_00049.dicom,Stillwater General Hospital,Dr. David Lee,Philips DigitalDiagnost,1.7.3,AP,100 kVp,100 mA,2000,1800,False
+chest_xray_00050.dicom,Trinity Clinic,Dr. David Lee,GE Healthcare Discovery XR656,5.5.2.1,AP,Variable kVp,400 mA,1500,1900,False
+chest_xray_00051.dicom,Rosemary General Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,100 kVp,400 mA,1300,1500,True
+chest_xray_00052.dicom,Animas Medical Clinic,Dr. Emily Johnson,GE Healthcare Discovery XR656,5.5.2.1,PA,120 kVp,Automatic exposure control (AEC),1900,1500,True
+chest_xray_00053.dicom,Stillwater General Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,AP,Variable kVp,200 mA,1900,1300,True
+chest_xray_00054.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Toshiba Infinix-i Sky,5.5.2.1,AP,140 kVp,400 mA,1900,1900,True
+chest_xray_00055.dicom,Stillwater General Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,1.7.3,PA,Variable kVp,Low mA (low-dose),1900,1900,True
+chest_xray_00056.dicom,Noble Community Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,5.5.2.1,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00057.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Siemens Ysio Max,2.0.0.8,AP,Variable kVp,Low mA (low-dose),1100,1300,True
+chest_xray_00058.dicom,Love Hospital Center,Dr. David Lee,GE Healthcare Discovery XR656,2.1.3.4,AP,80 kVp (pediatric),Automatic exposure control (AEC),1100,1500,False
+chest_xray_00059.dicom,Love Hospital Center,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,1.7.3,AP,120 kVp,100 mA,1500,1500,True
+chest_xray_00060.dicom,Love Hospital Center,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.0.1,AP,140 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00061.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,2.0.0.8,PA,120 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00062.dicom,Stillwater General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,AP,120 kVp,100 mA,1300,1900,True
+chest_xray_00063.dicom,Noble Community Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,4.1.6.3,AP,120 kVp,200 mA,1300,1000,True
+chest_xray_00064.dicom,Trinity Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00065.dicom,Summerstone Medical Center,Dr. Christopher Davis,GE Healthcare Discovery XR656,4.0.1,PA,100 kVp,400 mA,1500,1000,True
+chest_xray_00066.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,Variable kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00067.dicom,Animas Medical Clinic,Dr. Jennifer Carter,Siemens Ysio Max,5.5.2.1,AP,100 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00068.dicom,Noble Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,5.5.2.1,AP,140 kVp,400 mA,1100,1500,True
+chest_xray_00069.dicom,Riverside Community Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,2.1.3.4,PA,100 kVp,100 mA,1500,1100,True
+chest_xray_00070.dicom,Summerstone Medical Center,Dr. David Lee,Philips DigitalDiagnost,2.1.3.4,AP,120 kVp,400 mA,1300,1500,False
+chest_xray_00071.dicom,Love Hospital Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,120 kVp,400 mA,1900,1300,True
+chest_xray_00072.dicom,Love Hospital Center,Dr. Kevin Walker,Siemens Ysio Max,1.7.3,AP,100 kVp,400 mA,1500,1500,True
+chest_xray_00073.dicom,Stillwater Community Hospital,Dr. David Lee,Philips DigitalDiagnost,1.7.3,PA,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00074.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Siemens Ysio Max,5.5.2.1,AP,100 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00075.dicom,Trinity Clinic,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00076.dicom,Trinity Clinic,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,PA,140 kVp,100 mA,1100,1000,True
+chest_xray_00077.dicom,Love Hospital Center,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,4.0.1,PA,140 kVp,400 mA,1900,1000,True
+chest_xray_00078.dicom,Noble Community Hospital,Dr. Michael Patel,Philips DigitalDiagnost,3.2.0.5,PA,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00079.dicom,Rosemary General Hospital,Dr. Brian Wilson,Siemens Ysio Max,4.1.6.3,AP,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00080.dicom,Love Hospital Center,Dr. Brian Wilson,Philips DigitalDiagnost,2.1.3.4,AP,120 kVp,Automatic exposure control (AEC),1900,1500,True
+chest_xray_00081.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Siemens Ysio Max,5.5.2.1,PA,Variable kVp,100 mA,2000,1800,False
+chest_xray_00082.dicom,Grand Meadow Medical Center,Dr. Brian Wilson,GE Healthcare Discovery XR656,4.1.6.3,AP,Variable kVp,400 mA,1100,1000,True
+chest_xray_00083.dicom,Trinity Clinic,Dr. Kevin Walker,Siemens Ysio Max,4.1.6.3,PA,100 kVp,Low mA (low-dose),1900,1100,True
+chest_xray_00084.dicom,Summerstone Medical Center,Dr. Jessica Martinez,Siemens Ysio Max,4.0.1,PA,Variable kVp,Low mA (low-dose),1300,1100,True
+chest_xray_00085.dicom,Noble Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,1.7.3,PA,140 kVp,100 mA,2000,1800,False
+chest_xray_00086.dicom,Rosemary General Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,1.7.3,PA,100 kVp,100 mA,1100,1000,True
+chest_xray_00087.dicom,Riverside Community Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,2.0.0.8,PA,80 kVp (pediatric),400 mA,1900,1000,True
+chest_xray_00088.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,Automatic exposure control (AEC),1300,1000,True
+chest_xray_00089.dicom,Riverside Community Hospital,Dr. David Lee,GE Healthcare Discovery XR656,4.1.6.3,AP,100 kVp,Low mA (low-dose),1100,1300,False
+chest_xray_00090.dicom,Noble Community Hospital,Dr. Jennifer Carter,Siemens Ysio Max,2.1.3.4,AP,Variable kVp,200 mA,1900,1500,True
+chest_xray_00091.dicom,Love Hospital Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00092.dicom,Summerstone Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,4.0.1,PA,140 kVp,200 mA,2000,1800,False
+chest_xray_00093.dicom,Stillwater General Hospital,Dr. Emily Johnson,Siemens Ysio Max,4.1.6.3,AP,140 kVp,Automatic exposure control (AEC),1900,1000,True
+chest_xray_00094.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Philips DigitalDiagnost,2.1.3.4,PA,120 kVp,400 mA,1900,1100,True
+chest_xray_00095.dicom,Stillwater General Hospital,Dr. Michael Patel,Philips DigitalDiagnost,1.7.3,PA,80 kVp (pediatric),Low mA (low-dose),2000,1800,False
+chest_xray_00096.dicom,Love Hospital Center,Dr. David Lee,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,200 mA,1500,1500,False
+chest_xray_00097.dicom,Stillwater General Hospital,Dr. Emily Johnson,Siemens Ysio Max,1.7.3,PA,120 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00098.dicom,Trinity Clinic,Dr. David Lee,Philips DigitalDiagnost,4.1.6.3,PA,140 kVp,400 mA,1300,1300,False
+chest_xray_00099.dicom,Stillwater General Hospital,Dr. David Lee,Toshiba Infinix-i Sky,4.0.1,PA,140 kVp,Automatic exposure control (AEC),1100,1500,False
+chest_xray_00100.dicom,Riverside Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,AP,140 kVp,200 mA,2000,1800,False
+chest_xray_00101.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,Variable kVp,400 mA,1100,1900,True
+chest_xray_00102.dicom,Riverside Community Hospital,Dr. Michael Patel,Siemens Ysio Max,3.2.0.5,PA,100 kVp,400 mA,1300,1100,True
+chest_xray_00103.dicom,Trinity Clinic,Dr. Brian Wilson,Philips DigitalDiagnost,2.0.0.8,AP,120 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00104.dicom,Summerstone Medical Center,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.0.1,PA,80 kVp (pediatric),400 mA,1900,1500,True
+chest_xray_00105.dicom,Stillwater General Hospital,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,PA,100 kVp,Low mA (low-dose),1100,1300,True
+chest_xray_00106.dicom,Noble Community Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,PA,120 kVp,400 mA,2000,1800,False
+chest_xray_00107.dicom,Noble Community Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,Variable kVp,200 mA,1500,1900,True
+chest_xray_00108.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,Automatic exposure control (AEC),1300,1300,True
+chest_xray_00109.dicom,Summerstone Medical Center,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,120 kVp,200 mA,1900,1900,True
+chest_xray_00110.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Siemens Ysio Max,1.7.3,PA,140 kVp,400 mA,1300,1300,True
+chest_xray_00111.dicom,Grand Meadow Medical Center,Dr. David Lee,Siemens Ysio Max,4.0.1,PA,120 kVp,Automatic exposure control (AEC),1900,1900,False
+chest_xray_00112.dicom,Animas Medical Clinic,Dr. Emily Johnson,Toshiba Infinix-i Sky,4.0.1,PA,80 kVp (pediatric),Automatic exposure control (AEC),1500,1100,True
+chest_xray_00113.dicom,Trinity Clinic,Dr. Jessica Martinez,Siemens Ysio Max,2.1.3.4,PA,100 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00114.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,1.7.3,AP,80 kVp (pediatric),200 mA,2000,1800,False
+chest_xray_00115.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,4.1.6.3,AP,140 kVp,400 mA,2000,1800,False
+chest_xray_00116.dicom,Stillwater Community Hospital,Dr. Brian Wilson,Philips DigitalDiagnost,2.0.0.8,AP,140 kVp,400 mA,1300,1100,True
+chest_xray_00117.dicom,Riverside Community Hospital,Dr. David Lee,Philips DigitalDiagnost,5.5.2.1,AP,120 kVp,100 mA,1500,1300,False
+chest_xray_00118.dicom,Animas Medical Clinic,Dr. David Lee,GE Healthcare Discovery XR656,4.0.1,AP,120 kVp,Low mA (low-dose),1500,1900,False
+chest_xray_00119.dicom,Rosemary General Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00120.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,Toshiba Infinix-i Sky,2.0.0.8,PA,80 kVp (pediatric),100 mA,1900,1100,True
+chest_xray_00121.dicom,Stillwater General Hospital,Dr. Laura Smith,Philips DigitalDiagnost,1.7.3,PA,140 kVp,400 mA,1500,1000,True
+chest_xray_00122.dicom,Rosemary General Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.1.6.3,PA,100 kVp,200 mA,1300,1100,True
+chest_xray_00123.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,2.0.0.8,AP,80 kVp (pediatric),400 mA,1500,1500,True
+chest_xray_00124.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Siemens Ysio Max,3.2.0.5,PA,140 kVp,400 mA,1900,1000,True
+chest_xray_00125.dicom,Noble Community Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,1.7.3,AP,100 kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00126.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Siemens Ysio Max,2.1.3.4,AP,140 kVp,Automatic exposure control (AEC),1900,1100,True
+chest_xray_00127.dicom,Love Hospital Center,Dr. David Lee,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,100 kVp,Automatic exposure control (AEC),1900,1000,False
+chest_xray_00128.dicom,Trinity Clinic,Dr. David Lee,Siemens Ysio Max,5.5.2.1,AP,80 kVp (pediatric),200 mA,1300,1100,False
+chest_xray_00129.dicom,Stillwater General Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,80 kVp (pediatric),Low mA (low-dose),2000,1800,False
+chest_xray_00130.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Siemens Ysio Max,5.5.2.1,AP,120 kVp,100 mA,2000,1800,False
+chest_xray_00131.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,Siemens Ysio Max,4.1.6.3,AP,100 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00132.dicom,Summerstone Medical Center,Dr. Laura Smith,Siemens Ysio Max,3.2.0.5,AP,Variable kVp,200 mA,1500,1900,True
+chest_xray_00133.dicom,Love Hospital Center,Dr. Christopher Davis,Siemens Ysio Max,4.0.1,PA,100 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00134.dicom,Riverside Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,1.7.3,AP,80 kVp (pediatric),Low mA (low-dose),1100,1000,True
+chest_xray_00135.dicom,Rosemary General Hospital,Dr. Kevin Walker,Siemens Ysio Max,2.1.3.4,PA,140 kVp,Automatic exposure control (AEC),1500,1500,True
+chest_xray_00136.dicom,Summerstone Medical Center,Dr. Emily Johnson,Siemens Ysio Max,2.0.0.8,AP,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00137.dicom,Summerstone Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,4.0.1,PA,80 kVp (pediatric),400 mA,1900,1000,True
+chest_xray_00138.dicom,Love Hospital Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.1.6.3,PA,Variable kVp,400 mA,1500,1000,True
+chest_xray_00139.dicom,Riverside Community Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,100 kVp,200 mA,1900,1500,True
+chest_xray_00140.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.1.6.3,PA,Variable kVp,400 mA,1100,1900,True
+chest_xray_00141.dicom,Noble Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,5.5.2.1,PA,120 kVp,400 mA,1900,1100,True
+chest_xray_00142.dicom,Summerstone Medical Center,Dr. Emily Johnson,Philips DigitalDiagnost,2.0.0.8,PA,80 kVp (pediatric),Low mA (low-dose),1500,1300,True
+chest_xray_00143.dicom,Rosemary General Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,5.5.2.1,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00144.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Toshiba Infinix-i Sky,2.1.3.4,PA,80 kVp (pediatric),400 mA,1500,1100,True
+chest_xray_00145.dicom,Love Hospital Center,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,120 kVp,Automatic exposure control (AEC),1100,1900,True
+chest_xray_00146.dicom,Noble Community Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,2.1.3.4,AP,100 kVp,200 mA,1900,1100,True
+chest_xray_00147.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,100 kVp,100 mA,1300,1000,True
+chest_xray_00148.dicom,Stillwater General Hospital,Dr. Laura Smith,Philips DigitalDiagnost,4.1.6.3,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00149.dicom,Love Hospital Center,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,80 kVp (pediatric),100 mA,1900,1300,True
+chest_xray_00150.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,5.5.2.1,AP,140 kVp,400 mA,1900,1000,True
+chest_xray_00151.dicom,Love Hospital Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,5.5.2.1,PA,Variable kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00152.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,120 kVp,Low mA (low-dose),1900,1100,True
+chest_xray_00153.dicom,Trinity Clinic,Dr. Sarah Anderson,GE Healthcare Discovery XR656,4.0.1,PA,Variable kVp,100 mA,1500,1000,True
+chest_xray_00154.dicom,Stillwater Community Hospital,Dr. Brian Wilson,Philips DigitalDiagnost,2.1.3.4,AP,100 kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00155.dicom,Riverside Community Hospital,Dr. Brian Wilson,Philips DigitalDiagnost,2.1.3.4,AP,100 kVp,200 mA,1100,1300,True
+chest_xray_00156.dicom,Love Hospital Center,Dr. Kevin Walker,Siemens Ysio Max,5.5.2.1,PA,140 kVp,Low mA (low-dose),1300,1000,True
+chest_xray_00157.dicom,Trinity Clinic,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,AP,100 kVp,400 mA,1500,1500,True
+chest_xray_00158.dicom,Riverside Community Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,4.0.1,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00159.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,Variable kVp,400 mA,1500,1100,True
+chest_xray_00160.dicom,Love Hospital Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,3.2.0.5,AP,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00161.dicom,Stillwater Community Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,AP,100 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00162.dicom,Animas Medical Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,1.7.3,AP,Variable kVp,200 mA,1500,1300,False
+chest_xray_00163.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,4.0.1,PA,140 kVp,Low mA (low-dose),1900,1900,True
+chest_xray_00164.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Toshiba Infinix-i Sky,4.0.1,AP,Variable kVp,100 mA,2000,1800,False
+chest_xray_00165.dicom,Summerstone Medical Center,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,80 kVp (pediatric),Low mA (low-dose),1500,1000,True
+chest_xray_00166.dicom,Grand Meadow Medical Center,Dr. David Lee,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,120 kVp,Low mA (low-dose),1500,1500,False
+chest_xray_00167.dicom,Riverside Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,3.2.0.5,AP,140 kVp,400 mA,2000,1800,False
+chest_xray_00168.dicom,Stillwater Community Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,140 kVp,400 mA,1900,1500,True
+chest_xray_00169.dicom,Summerstone Medical Center,Dr. Kevin Walker,Toshiba Infinix-i Sky,1.7.3,AP,Variable kVp,200 mA,1300,1900,True
+chest_xray_00170.dicom,Stillwater General Hospital,Dr. Brian Wilson,Siemens Ysio Max,1.7.3,PA,100 kVp,200 mA,1100,1000,True
+chest_xray_00171.dicom,Stillwater General Hospital,Dr. David Lee,Philips DigitalDiagnost,4.1.6.3,PA,Variable kVp,200 mA,1900,1100,False
+chest_xray_00172.dicom,Love Hospital Center,Dr. Jennifer Carter,Philips DigitalDiagnost,4.1.6.3,AP,Variable kVp,200 mA,1500,1500,True
+chest_xray_00173.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Toshiba Infinix-i Sky,2.1.3.4,AP,80 kVp (pediatric),Automatic exposure control (AEC),1500,1300,True
+chest_xray_00174.dicom,Animas Medical Clinic,Dr. Kevin Walker,Philips DigitalDiagnost,3.2.0.5,PA,140 kVp,100 mA,2000,1800,False
+chest_xray_00175.dicom,Noble Community Hospital,Dr. Michael Patel,Siemens Ysio Max,3.2.0.5,PA,100 kVp,Low mA (low-dose),1900,1900,True
+chest_xray_00176.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,3.2.0.5,PA,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00177.dicom,Love Hospital Center,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,PA,140 kVp,200 mA,1900,1300,True
+chest_xray_00178.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,1.7.3,PA,80 kVp (pediatric),400 mA,1300,1500,True
+chest_xray_00179.dicom,Noble Community Hospital,Dr. David Lee,Philips DigitalDiagnost,1.7.3,AP,140 kVp,Low mA (low-dose),1500,1300,False
+chest_xray_00180.dicom,Noble Community Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,5.5.2.1,PA,140 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00181.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,2.0.0.8,PA,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00182.dicom,Riverside Community Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,100 kVp,200 mA,2000,1800,False
+chest_xray_00183.dicom,Animas Medical Clinic,Dr. Emily Johnson,Toshiba Infinix-i Sky,4.1.6.3,AP,120 kVp,200 mA,1100,1100,True
+chest_xray_00184.dicom,Summerstone Medical Center,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,120 kVp,400 mA,2000,1800,False
+chest_xray_00185.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00186.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Toshiba Infinix-i Sky,5.5.2.1,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00187.dicom,Noble Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,5.5.2.1,AP,120 kVp,200 mA,1300,1500,True
+chest_xray_00188.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,4.1.6.3,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00189.dicom,Trinity Clinic,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,120 kVp,Low mA (low-dose),1100,1500,True
+chest_xray_00190.dicom,Noble Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,2.0.0.8,AP,100 kVp,Low mA (low-dose),1500,1300,True
+chest_xray_00191.dicom,Love Hospital Center,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,Variable kVp,Low mA (low-dose),1300,1100,True
+chest_xray_00192.dicom,Riverside Community Hospital,Dr. David Lee,GE Healthcare Discovery XR656,5.5.2.1,PA,100 kVp,Automatic exposure control (AEC),1100,1300,False
+chest_xray_00193.dicom,Grand Meadow Medical Center,Dr. Brian Wilson,GE Healthcare Discovery XR656,2.1.3.4,PA,Variable kVp,100 mA,1900,1900,True
+chest_xray_00194.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Toshiba Infinix-i Sky,4.0.1,PA,Variable kVp,200 mA,2000,1800,False
+chest_xray_00195.dicom,Summerstone Medical Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,5.5.2.1,PA,140 kVp,400 mA,1100,1300,True
+chest_xray_00196.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Philips DigitalDiagnost,5.5.2.1,AP,140 kVp,100 mA,1500,1300,True
+chest_xray_00197.dicom,Trinity Clinic,Dr. David Lee,Siemens Ysio Max,2.1.3.4,AP,80 kVp (pediatric),200 mA,1500,1000,False
+chest_xray_00198.dicom,Grand Meadow Medical Center,Dr. David Lee,Toshiba Infinix-i Sky,3.2.0.5,PA,80 kVp (pediatric),400 mA,1900,1500,False
+chest_xray_00199.dicom,Riverside Community Hospital,Dr. Laura Smith,Siemens Ysio Max,3.2.0.5,PA,80 kVp (pediatric),100 mA,1100,1000,True
+chest_xray_00200.dicom,Stillwater General Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,2.0.0.8,AP,120 kVp,200 mA,1300,1000,True
+chest_xray_00201.dicom,Noble Community Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,2.1.3.4,PA,140 kVp,200 mA,1300,1300,True
+chest_xray_00202.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,4.1.6.3,PA,Variable kVp,Automatic exposure control (AEC),1500,1100,True
+chest_xray_00203.dicom,Noble Community Hospital,Dr. Brian Wilson,Siemens Ysio Max,4.1.6.3,PA,Variable kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00204.dicom,Noble Community Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,1.7.3,AP,120 kVp,Low mA (low-dose),1500,1300,True
+chest_xray_00205.dicom,Riverside Community Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,80 kVp (pediatric),Automatic exposure control (AEC),1900,1900,True
+chest_xray_00206.dicom,Noble Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.0.0.8,AP,80 kVp (pediatric),Automatic exposure control (AEC),1900,1100,True
+chest_xray_00207.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,200 mA,1500,1100,True
+chest_xray_00208.dicom,Grand Meadow Medical Center,Dr. David Lee,Toshiba Infinix-i Sky,2.0.0.8,AP,120 kVp,Automatic exposure control (AEC),1500,1300,False
+chest_xray_00209.dicom,Love Hospital Center,Dr. Brian Wilson,Toshiba Infinix-i Sky,2.0.0.8,AP,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00210.dicom,Riverside Community Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,4.1.6.3,PA,Variable kVp,Automatic exposure control (AEC),1900,1900,True
+chest_xray_00211.dicom,Noble Community Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,120 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00212.dicom,Rosemary General Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,140 kVp,200 mA,1100,1100,True
+chest_xray_00213.dicom,Trinity Clinic,Dr. Emily Johnson,Siemens Ysio Max,2.1.3.4,PA,100 kVp,200 mA,1900,1100,True
+chest_xray_00214.dicom,Stillwater General Hospital,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,4.0.1,AP,100 kVp,Low mA (low-dose),1100,1000,True
+chest_xray_00215.dicom,Rosemary General Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,2.1.3.4,PA,140 kVp,400 mA,1900,1300,True
+chest_xray_00216.dicom,Riverside Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,4.1.6.3,PA,Variable kVp,400 mA,1100,1500,True
+chest_xray_00217.dicom,Riverside Community Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,2.1.3.4,PA,Variable kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00218.dicom,Riverside Community Hospital,Dr. Laura Smith,Toshiba Infinix-i Sky,2.1.3.4,AP,100 kVp,Low mA (low-dose),1900,1900,True
+chest_xray_00219.dicom,Stillwater Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,4.0.1,PA,100 kVp,200 mA,1900,1100,True
+chest_xray_00220.dicom,Trinity Clinic,Dr. Emily Johnson,Philips DigitalDiagnost,3.2.0.5,PA,140 kVp,400 mA,1300,1000,True
+chest_xray_00221.dicom,Trinity Clinic,Dr. Brian Wilson,Toshiba Infinix-i Sky,2.1.3.4,AP,100 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00222.dicom,Noble Community Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,3.2.0.5,PA,120 kVp,100 mA,1300,1300,True
+chest_xray_00223.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,Variable kVp,200 mA,1900,1000,True
+chest_xray_00224.dicom,Stillwater Community Hospital,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,AP,140 kVp,Low mA (low-dose),1100,1300,True
+chest_xray_00225.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.1.6.3,AP,100 kVp,Automatic exposure control (AEC),1100,1000,True
+chest_xray_00226.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,120 kVp,400 mA,1500,1500,True
+chest_xray_00227.dicom,Love Hospital Center,Dr. Christopher Davis,Siemens Ysio Max,4.1.6.3,AP,Variable kVp,Automatic exposure control (AEC),1900,1100,True
+chest_xray_00228.dicom,Trinity Clinic,Dr. Kevin Walker,Siemens Ysio Max,2.0.0.8,AP,100 kVp,100 mA,1300,1300,True
+chest_xray_00229.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.0.1,PA,80 kVp (pediatric),Automatic exposure control (AEC),1500,1000,True
+chest_xray_00230.dicom,Noble Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,5.5.2.1,AP,80 kVp (pediatric),Low mA (low-dose),2000,1800,False
+chest_xray_00231.dicom,Trinity Clinic,Dr. Emily Johnson,Siemens Ysio Max,5.5.2.1,AP,80 kVp (pediatric),200 mA,1100,1000,True
+chest_xray_00232.dicom,Riverside Community Hospital,Dr. Jennifer Carter,Siemens Ysio Max,4.1.6.3,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00233.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,1.7.3,AP,Variable kVp,400 mA,1900,1300,True
+chest_xray_00234.dicom,Noble Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,140 kVp,100 mA,1900,1900,True
+chest_xray_00235.dicom,Love Hospital Center,Dr. Laura Smith,Philips DigitalDiagnost,2.0.0.8,AP,120 kVp,100 mA,1900,1100,True
+chest_xray_00236.dicom,Rosemary General Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,5.5.2.1,PA,140 kVp,Automatic exposure control (AEC),1900,1900,True
+chest_xray_00237.dicom,Stillwater Community Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,2.1.3.4,AP,100 kVp,Automatic exposure control (AEC),1100,1900,True
+chest_xray_00238.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,120 kVp,100 mA,1500,1500,True
+chest_xray_00239.dicom,Stillwater Community Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,100 kVp,100 mA,1500,1500,False
+chest_xray_00240.dicom,Animas Medical Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,100 kVp,200 mA,1100,1300,False
+chest_xray_00241.dicom,Noble Community Hospital,Dr. David Lee,Toshiba Infinix-i Sky,4.0.1,PA,Variable kVp,400 mA,2000,1800,False
+chest_xray_00242.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.0.1,AP,120 kVp,Low mA (low-dose),1500,1300,True
+chest_xray_00243.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,Variable kVp,400 mA,1500,1500,True
+chest_xray_00244.dicom,Trinity Clinic,Dr. Brian Wilson,Toshiba Infinix-i Sky,3.2.0.5,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00245.dicom,Love Hospital Center,Dr. David Lee,GE Healthcare Discovery XR656,3.2.0.5,AP,100 kVp,200 mA,1300,1900,False
+chest_xray_00246.dicom,Stillwater Community Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,80 kVp (pediatric),200 mA,1500,1100,True
+chest_xray_00247.dicom,Rosemary General Hospital,Dr. Laura Smith,Toshiba Infinix-i Sky,2.1.3.4,PA,Variable kVp,200 mA,1300,1300,True
+chest_xray_00248.dicom,Summerstone Medical Center,Dr. Kevin Walker,Philips DigitalDiagnost,2.1.3.4,AP,120 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00249.dicom,Stillwater General Hospital,Dr. Laura Smith,Philips DigitalDiagnost,2.0.0.8,PA,140 kVp,400 mA,2000,1800,False
+chest_xray_00250.dicom,Animas Medical Clinic,Dr. Michael Patel,Toshiba Infinix-i Sky,3.2.0.5,PA,140 kVp,200 mA,1500,1000,True
+chest_xray_00251.dicom,Rosemary General Hospital,Dr. David Lee,Toshiba Infinix-i Sky,5.5.2.1,PA,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00252.dicom,Trinity Clinic,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.0.0.8,PA,140 kVp,200 mA,1100,1900,True
+chest_xray_00253.dicom,Trinity Clinic,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,100 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00254.dicom,Riverside Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,4.0.1,PA,Variable kVp,Low mA (low-dose),1100,1900,True
+chest_xray_00255.dicom,Love Hospital Center,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.0.0.8,AP,140 kVp,200 mA,2000,1800,False
+chest_xray_00256.dicom,Grand Meadow Medical Center,Dr. Brian Wilson,Siemens Ysio Max,4.1.6.3,PA,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00257.dicom,Animas Medical Clinic,Dr. Christopher Davis,GE Healthcare Discovery XR656,2.0.0.8,AP,80 kVp (pediatric),200 mA,1100,1900,True
+chest_xray_00258.dicom,Stillwater Community Hospital,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,120 kVp,100 mA,1300,1900,True
+chest_xray_00259.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,2.1.3.4,PA,100 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00260.dicom,Noble Community Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,4.0.1,PA,100 kVp,Automatic exposure control (AEC),1300,1000,True
+chest_xray_00261.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,2.1.3.4,AP,80 kVp (pediatric),200 mA,1500,1300,True
+chest_xray_00262.dicom,Animas Medical Clinic,Dr. Jennifer Carter,Siemens Ysio Max,5.5.2.1,AP,Variable kVp,Low mA (low-dose),1500,1000,True
+chest_xray_00263.dicom,Noble Community Hospital,Dr. Brian Wilson,Siemens Ysio Max,5.5.2.1,PA,Variable kVp,100 mA,1100,1000,True
+chest_xray_00264.dicom,Stillwater General Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,400 mA,1900,1500,True
+chest_xray_00265.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Toshiba Infinix-i Sky,3.2.0.5,AP,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00266.dicom,Trinity Clinic,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.0.1,AP,100 kVp,200 mA,1900,1300,True
+chest_xray_00267.dicom,Grand Meadow Medical Center,Dr. David Lee,Siemens Ysio Max,2.1.3.4,PA,120 kVp,Low mA (low-dose),1300,1000,False
+chest_xray_00268.dicom,Stillwater General Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,1.7.3,AP,Variable kVp,200 mA,1500,1300,True
+chest_xray_00269.dicom,Rosemary General Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,5.5.2.1,PA,Variable kVp,400 mA,1300,1100,True
+chest_xray_00270.dicom,Riverside Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,5.5.2.1,PA,120 kVp,Automatic exposure control (AEC),1100,1000,True
+chest_xray_00271.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,1.7.3,PA,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00272.dicom,Love Hospital Center,Dr. David Lee,Toshiba Infinix-i Sky,2.0.0.8,PA,Variable kVp,Low mA (low-dose),1900,1900,False
+chest_xray_00273.dicom,Grand Meadow Medical Center,Dr. Brian Wilson,Philips DigitalDiagnost,5.5.2.1,AP,120 kVp,400 mA,1500,1000,True
+chest_xray_00274.dicom,Noble Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,4.0.1,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00275.dicom,Love Hospital Center,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,AP,100 kVp,400 mA,1900,1900,True
+chest_xray_00276.dicom,Stillwater General Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00277.dicom,Rosemary General Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,AP,80 kVp (pediatric),100 mA,1100,1000,True
+chest_xray_00278.dicom,Trinity Clinic,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,Variable kVp,400 mA,2000,1800,False
+chest_xray_00279.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,5.5.2.1,AP,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00280.dicom,Trinity Clinic,Dr. Brian Wilson,Philips DigitalDiagnost,1.7.3,PA,140 kVp,Automatic exposure control (AEC),1900,1300,True
+chest_xray_00281.dicom,Stillwater Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,5.5.2.1,PA,140 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00282.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,2.0.0.8,AP,80 kVp (pediatric),400 mA,1100,1500,True
+chest_xray_00283.dicom,Trinity Clinic,Dr. Jessica Martinez,Philips DigitalDiagnost,4.1.6.3,AP,140 kVp,400 mA,1300,1300,True
+chest_xray_00284.dicom,Riverside Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,4.1.6.3,PA,100 kVp,200 mA,1300,1100,True
+chest_xray_00285.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,1.7.3,AP,Variable kVp,400 mA,1300,1300,True
+chest_xray_00286.dicom,Stillwater Community Hospital,Dr. Michael Patel,Siemens Ysio Max,4.0.1,PA,Variable kVp,400 mA,1300,1000,True
+chest_xray_00287.dicom,Love Hospital Center,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.1.6.3,PA,Variable kVp,Low mA (low-dose),1900,1100,True
+chest_xray_00288.dicom,Love Hospital Center,Dr. Brian Wilson,GE Healthcare Discovery XR656,3.2.0.5,PA,80 kVp (pediatric),100 mA,1300,1300,True
+chest_xray_00289.dicom,Trinity Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,3.2.0.5,AP,80 kVp (pediatric),400 mA,1500,1100,True
+chest_xray_00290.dicom,Rosemary General Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,2.1.3.4,AP,100 kVp,200 mA,1300,1100,True
+chest_xray_00291.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,GE Healthcare Discovery XR656,2.1.3.4,PA,Variable kVp,400 mA,1100,1500,True
+chest_xray_00292.dicom,Noble Community Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,Variable kVp,Low mA (low-dose),1300,1300,False
+chest_xray_00293.dicom,Riverside Community Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,3.2.0.5,PA,120 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00294.dicom,Animas Medical Clinic,Dr. David Lee,Siemens Ysio Max,1.7.3,PA,120 kVp,200 mA,1300,1000,False
+chest_xray_00295.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Toshiba Infinix-i Sky,4.0.1,AP,120 kVp,400 mA,1500,1900,True
+chest_xray_00296.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,120 kVp,200 mA,1900,1900,True
+chest_xray_00297.dicom,Rosemary General Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,120 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00298.dicom,Trinity Clinic,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.0.0.8,PA,Variable kVp,Low mA (low-dose),1900,1000,True
+chest_xray_00299.dicom,Noble Community Hospital,Dr. Jessica Martinez,Toshiba Infinix-i Sky,1.7.3,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00300.dicom,Love Hospital Center,Dr. Jennifer Carter,Toshiba Infinix-i Sky,1.7.3,PA,Variable kVp,Automatic exposure control (AEC),1300,1300,True
+chest_xray_00301.dicom,Summerstone Medical Center,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.1.6.3,AP,100 kVp,400 mA,1300,1100,True
+chest_xray_00302.dicom,Love Hospital Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.0.0.8,PA,100 kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00303.dicom,Trinity Clinic,Dr. Jessica Martinez,Philips DigitalDiagnost,1.7.3,AP,100 kVp,Automatic exposure control (AEC),1900,1100,True
+chest_xray_00304.dicom,Love Hospital Center,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.0.1,PA,140 kVp,200 mA,2000,1800,False
+chest_xray_00305.dicom,Grand Meadow Medical Center,Dr. Michael Patel,GE Healthcare Discovery XR656,4.1.6.3,PA,120 kVp,100 mA,1900,1100,True
+chest_xray_00306.dicom,Love Hospital Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.0.0.8,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00307.dicom,Trinity Clinic,Dr. David Lee,Philips DigitalDiagnost,5.5.2.1,PA,140 kVp,400 mA,2000,1800,False
+chest_xray_00308.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00309.dicom,Animas Medical Clinic,Dr. Christopher Davis,Toshiba Infinix-i Sky,1.7.3,PA,100 kVp,100 mA,1100,1500,True
+chest_xray_00310.dicom,Stillwater Community Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,2.0.0.8,AP,120 kVp,200 mA,1100,1500,True
+chest_xray_00311.dicom,Grand Meadow Medical Center,Dr. David Lee,Siemens Ysio Max,5.5.2.1,PA,80 kVp (pediatric),400 mA,1500,1300,False
+chest_xray_00312.dicom,Animas Medical Clinic,Dr. Michael Patel,GE Healthcare Discovery XR656,2.1.3.4,PA,80 kVp (pediatric),400 mA,1500,1900,True
+chest_xray_00313.dicom,Trinity Clinic,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.0.1,PA,120 kVp,100 mA,1500,1300,True
+chest_xray_00314.dicom,Stillwater Community Hospital,Dr. Laura Smith,Siemens Ysio Max,4.1.6.3,PA,80 kVp (pediatric),200 mA,2000,1800,False
+chest_xray_00315.dicom,Noble Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,5.5.2.1,PA,100 kVp,400 mA,1900,1500,True
+chest_xray_00316.dicom,Trinity Clinic,Dr. David Lee,GE Healthcare Discovery XR656,4.0.1,PA,80 kVp (pediatric),100 mA,1100,1000,False
+chest_xray_00317.dicom,Riverside Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,PA,100 kVp,200 mA,1300,1100,True
+chest_xray_00318.dicom,Stillwater General Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00319.dicom,Noble Community Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,Variable kVp,400 mA,1300,1900,True
+chest_xray_00320.dicom,Summerstone Medical Center,Dr. Jessica Martinez,Philips DigitalDiagnost,2.0.0.8,PA,Variable kVp,Low mA (low-dose),1900,1900,True
+chest_xray_00321.dicom,Rosemary General Hospital,Dr. David Lee,GE Healthcare Discovery XR656,3.2.0.5,PA,80 kVp (pediatric),Low mA (low-dose),1900,1300,False
+chest_xray_00322.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,200 mA,1300,1000,True
+chest_xray_00323.dicom,Grand Meadow Medical Center,Dr. Kevin Walker,Toshiba Infinix-i Sky,4.1.6.3,PA,80 kVp (pediatric),Automatic exposure control (AEC),1900,1000,True
+chest_xray_00324.dicom,Riverside Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,3.2.0.5,PA,80 kVp (pediatric),Automatic exposure control (AEC),1500,1300,True
+chest_xray_00325.dicom,Rosemary General Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,3.2.0.5,PA,100 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00326.dicom,Love Hospital Center,Dr. Laura Smith,Philips DigitalDiagnost,5.5.2.1,PA,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00327.dicom,Summerstone Medical Center,Dr. Michael Patel,Philips DigitalDiagnost,3.2.0.5,PA,80 kVp (pediatric),400 mA,1900,1100,True
+chest_xray_00328.dicom,Noble Community Hospital,Dr. Jessica Martinez,Siemens Ysio Max,4.0.1,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00329.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Toshiba Infinix-i Sky,4.1.6.3,PA,140 kVp,200 mA,2000,1800,False
+chest_xray_00330.dicom,Stillwater General Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,2.1.3.4,AP,140 kVp,200 mA,1100,1500,True
+chest_xray_00331.dicom,Love Hospital Center,Dr. Emily Johnson,Philips DigitalDiagnost,2.1.3.4,AP,100 kVp,200 mA,2000,1800,False
+chest_xray_00332.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Siemens Ysio Max,2.0.0.8,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00333.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,GE Healthcare Discovery XR656,1.7.3,AP,80 kVp (pediatric),400 mA,1900,1100,True
+chest_xray_00334.dicom,Love Hospital Center,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,AP,80 kVp (pediatric),200 mA,2000,1800,False
+chest_xray_00335.dicom,Rosemary General Hospital,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00336.dicom,Noble Community Hospital,Dr. Jennifer Carter,Siemens Ysio Max,4.0.1,PA,120 kVp,100 mA,2000,1800,False
+chest_xray_00337.dicom,Stillwater General Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.1.3.4,PA,80 kVp (pediatric),Low mA (low-dose),2000,1800,False
+chest_xray_00338.dicom,Love Hospital Center,Dr. Laura Smith,Toshiba Infinix-i Sky,4.0.1,PA,100 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00339.dicom,Stillwater General Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.1.6.3,AP,100 kVp,200 mA,1100,1000,True
+chest_xray_00340.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,140 kVp,200 mA,1300,1300,True
+chest_xray_00341.dicom,Trinity Clinic,Dr. Brian Wilson,Siemens Ysio Max,4.1.6.3,PA,140 kVp,100 mA,1900,1100,True
+chest_xray_00342.dicom,Animas Medical Clinic,Dr. Kevin Walker,Toshiba Infinix-i Sky,4.0.1,AP,80 kVp (pediatric),Automatic exposure control (AEC),1900,1900,True
+chest_xray_00343.dicom,Rosemary General Hospital,Dr. David Lee,Philips DigitalDiagnost,4.1.6.3,PA,120 kVp,400 mA,1500,1300,False
+chest_xray_00344.dicom,Animas Medical Clinic,Dr. David Lee,Toshiba Infinix-i Sky,1.7.3,AP,100 kVp,Low mA (low-dose),1500,1900,False
+chest_xray_00345.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00346.dicom,Summerstone Medical Center,Dr. Christopher Davis,GE Healthcare Discovery XR656,2.0.0.8,AP,100 kVp,Low mA (low-dose),1300,1900,True
+chest_xray_00347.dicom,Summerstone Medical Center,Dr. David Lee,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00348.dicom,Noble Community Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,100 kVp,200 mA,1900,1900,True
+chest_xray_00349.dicom,Animas Medical Clinic,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,100 kVp,100 mA,1900,1000,True
+chest_xray_00350.dicom,Animas Medical Clinic,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,120 kVp,Automatic exposure control (AEC),1900,1300,True
+chest_xray_00351.dicom,Trinity Clinic,Dr. Brian Wilson,Siemens Ysio Max,4.0.1,AP,120 kVp,200 mA,2000,1800,False
+chest_xray_00352.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Philips DigitalDiagnost,1.7.3,PA,Variable kVp,Low mA (low-dose),1300,1000,True
+chest_xray_00353.dicom,Rosemary General Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,5.5.2.1,PA,140 kVp,400 mA,2000,1800,False
+chest_xray_00354.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,1.7.3,AP,100 kVp,200 mA,1100,1500,True
+chest_xray_00355.dicom,Summerstone Medical Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,4.0.1,AP,100 kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00356.dicom,Noble Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,2.0.0.8,AP,80 kVp (pediatric),200 mA,1500,1000,True
+chest_xray_00357.dicom,Animas Medical Clinic,Dr. Kevin Walker,Toshiba Infinix-i Sky,5.5.2.1,AP,100 kVp,400 mA,1500,1900,True
+chest_xray_00358.dicom,Summerstone Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,5.5.2.1,AP,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00359.dicom,Noble Community Hospital,Dr. David Lee,Siemens Ysio Max,1.7.3,AP,80 kVp (pediatric),100 mA,1500,1300,False
+chest_xray_00360.dicom,Love Hospital Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.0.1,PA,120 kVp,200 mA,1100,1900,True
+chest_xray_00361.dicom,Noble Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,5.5.2.1,PA,Variable kVp,200 mA,1500,1100,True
+chest_xray_00362.dicom,Stillwater General Hospital,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,AP,80 kVp (pediatric),100 mA,1300,1000,False
+chest_xray_00363.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Toshiba Infinix-i Sky,3.2.0.5,AP,120 kVp,100 mA,1900,1900,True
+chest_xray_00364.dicom,Summerstone Medical Center,Dr. Christopher Davis,Siemens Ysio Max,4.0.1,PA,100 kVp,200 mA,1900,1300,True
+chest_xray_00365.dicom,Noble Community Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,2.1.3.4,PA,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00366.dicom,Stillwater General Hospital,Dr. Laura Smith,Toshiba Infinix-i Sky,2.1.3.4,PA,120 kVp,100 mA,1500,1500,True
+chest_xray_00367.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.0.1,AP,120 kVp,400 mA,1500,1900,True
+chest_xray_00368.dicom,Noble Community Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,4.0.1,AP,80 kVp (pediatric),400 mA,1500,1500,True
+chest_xray_00369.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Siemens Ysio Max,5.5.2.1,PA,120 kVp,400 mA,1500,1900,True
+chest_xray_00370.dicom,Stillwater General Hospital,Dr. David Lee,GE Healthcare Discovery XR656,3.2.0.5,AP,140 kVp,400 mA,1900,1000,False
+chest_xray_00371.dicom,Love Hospital Center,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00372.dicom,Love Hospital Center,Dr. Jennifer Carter,Siemens Ysio Max,1.7.3,PA,100 kVp,Automatic exposure control (AEC),1500,1500,True
+chest_xray_00373.dicom,Noble Community Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,100 kVp,100 mA,1100,1900,True
+chest_xray_00374.dicom,Summerstone Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,1.7.3,AP,120 kVp,200 mA,2000,1800,False
+chest_xray_00375.dicom,Noble Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,2.0.0.8,AP,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00376.dicom,Trinity Clinic,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,100 kVp,Low mA (low-dose),1900,1500,True
+chest_xray_00377.dicom,Trinity Clinic,Dr. David Lee,Toshiba Infinix-i Sky,1.7.3,AP,120 kVp,200 mA,1900,1100,False
+chest_xray_00378.dicom,Grand Meadow Medical Center,Dr. Kevin Walker,Philips DigitalDiagnost,5.5.2.1,AP,80 kVp (pediatric),Automatic exposure control (AEC),1300,1900,True
+chest_xray_00379.dicom,Love Hospital Center,Dr. Laura Smith,Siemens Ysio Max,2.1.3.4,PA,80 kVp (pediatric),200 mA,1500,1000,True
+chest_xray_00380.dicom,Summerstone Medical Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,3.2.0.5,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00381.dicom,Animas Medical Clinic,Dr. Emily Johnson,Philips DigitalDiagnost,2.1.3.4,PA,100 kVp,400 mA,1300,1000,True
+chest_xray_00382.dicom,Riverside Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,PA,80 kVp (pediatric),400 mA,1500,1300,True
+chest_xray_00383.dicom,Stillwater General Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,1.7.3,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00384.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Philips DigitalDiagnost,2.0.0.8,PA,120 kVp,Low mA (low-dose),1100,1100,True
+chest_xray_00385.dicom,Riverside Community Hospital,Dr. Emily Johnson,Siemens Ysio Max,4.1.6.3,AP,120 kVp,Low mA (low-dose),1300,1500,True
+chest_xray_00386.dicom,Trinity Clinic,Dr. Emily Johnson,Siemens Ysio Max,3.2.0.5,PA,140 kVp,400 mA,1300,1500,True
+chest_xray_00387.dicom,Summerstone Medical Center,Dr. Michael Patel,Siemens Ysio Max,4.0.1,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00388.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00389.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,80 kVp (pediatric),100 mA,1100,1000,True
+chest_xray_00390.dicom,Trinity Clinic,Dr. Kevin Walker,GE Healthcare Discovery XR656,2.0.0.8,PA,Variable kVp,Low mA (low-dose),1500,1500,True
+chest_xray_00391.dicom,Summerstone Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,2.1.3.4,AP,Variable kVp,200 mA,1900,1100,True
+chest_xray_00392.dicom,Animas Medical Clinic,Dr. Brian Wilson,Philips DigitalDiagnost,5.5.2.1,PA,140 kVp,200 mA,1300,1900,True
+chest_xray_00393.dicom,Love Hospital Center,Dr. David Lee,GE Healthcare Discovery XR656,1.7.3,AP,100 kVp,100 mA,1900,1900,False
+chest_xray_00394.dicom,Rosemary General Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,4.1.6.3,AP,120 kVp,100 mA,1100,1000,True
+chest_xray_00395.dicom,Noble Community Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.0.1,PA,120 kVp,100 mA,1900,1900,True
+chest_xray_00396.dicom,Rosemary General Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,2.0.0.8,AP,100 kVp,400 mA,1100,1900,True
+chest_xray_00397.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,4.1.6.3,PA,120 kVp,200 mA,2000,1800,False
+chest_xray_00398.dicom,Love Hospital Center,Dr. David Lee,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,Variable kVp,Automatic exposure control (AEC),1100,1100,False
+chest_xray_00399.dicom,Noble Community Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,4.0.1,AP,120 kVp,Automatic exposure control (AEC),1300,1300,True
+chest_xray_00400.dicom,Stillwater General Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,120 kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00401.dicom,Love Hospital Center,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,AP,120 kVp,100 mA,1100,1300,True
+chest_xray_00402.dicom,Rosemary General Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,5.5.2.1,AP,120 kVp,200 mA,1900,1300,True
+chest_xray_00403.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.1.6.3,PA,140 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00404.dicom,Summerstone Medical Center,Dr. Laura Smith,Siemens Ysio Max,4.1.6.3,PA,140 kVp,100 mA,1900,1300,True
+chest_xray_00405.dicom,Love Hospital Center,Dr. Christopher Davis,Toshiba Infinix-i Sky,4.0.1,PA,140 kVp,Automatic exposure control (AEC),1300,1500,True
+chest_xray_00406.dicom,Noble Community Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,4.1.6.3,AP,Variable kVp,100 mA,1100,1900,True
+chest_xray_00407.dicom,Riverside Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,2.0.0.8,AP,Variable kVp,Automatic exposure control (AEC),1500,1000,True
+chest_xray_00408.dicom,Animas Medical Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,4.0.1,PA,Variable kVp,200 mA,1500,1900,False
+chest_xray_00409.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Toshiba Infinix-i Sky,2.1.3.4,AP,120 kVp,200 mA,2000,1800,False
+chest_xray_00410.dicom,Stillwater General Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,1.7.3,PA,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00411.dicom,Animas Medical Clinic,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,PA,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00412.dicom,Stillwater Community Hospital,Dr. Laura Smith,Toshiba Infinix-i Sky,5.5.2.1,AP,120 kVp,200 mA,1300,1300,True
+chest_xray_00413.dicom,Riverside Community Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,2.0.0.8,AP,140 kVp,100 mA,1500,1900,True
+chest_xray_00414.dicom,Animas Medical Clinic,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.0.1,PA,80 kVp (pediatric),100 mA,1900,1000,True
+chest_xray_00415.dicom,Animas Medical Clinic,Dr. David Lee,GE Healthcare Discovery XR656,2.1.3.4,AP,80 kVp (pediatric),200 mA,1100,1300,False
+chest_xray_00416.dicom,Riverside Community Hospital,Dr. Michael Patel,Siemens Ysio Max,2.1.3.4,PA,140 kVp,400 mA,1500,1000,True
+chest_xray_00417.dicom,Noble Community Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,100 mA,1900,1100,True
+chest_xray_00418.dicom,Rosemary General Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.0.0.8,AP,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00419.dicom,Animas Medical Clinic,Dr. Michael Patel,Toshiba Infinix-i Sky,2.1.3.4,AP,100 kVp,200 mA,2000,1800,False
+chest_xray_00420.dicom,Love Hospital Center,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,AP,80 kVp (pediatric),200 mA,1100,1100,True
+chest_xray_00421.dicom,Rosemary General Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,1.7.3,AP,Variable kVp,400 mA,1100,1300,True
+chest_xray_00422.dicom,Trinity Clinic,Dr. David Lee,GE Healthcare Discovery XR656,3.2.0.5,AP,100 kVp,Low mA (low-dose),1500,1100,False
+chest_xray_00423.dicom,Trinity Clinic,Dr. Brian Wilson,Toshiba Infinix-i Sky,2.0.0.8,PA,100 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00424.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Toshiba Infinix-i Sky,1.7.3,PA,120 kVp,400 mA,1100,1000,True
+chest_xray_00425.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Toshiba Infinix-i Sky,4.0.1,PA,80 kVp (pediatric),400 mA,1500,1900,True
+chest_xray_00426.dicom,Stillwater General Hospital,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,140 kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00427.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Toshiba Infinix-i Sky,5.5.2.1,PA,Variable kVp,100 mA,1500,1000,True
+chest_xray_00428.dicom,Stillwater Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,5.5.2.1,PA,140 kVp,100 mA,2000,1800,False
+chest_xray_00429.dicom,Riverside Community Hospital,Dr. Christopher Davis,GE Healthcare Discovery XR656,2.1.3.4,PA,Variable kVp,200 mA,2000,1800,False
+chest_xray_00430.dicom,Summerstone Medical Center,Dr. Jessica Martinez,GE Healthcare Discovery XR656,3.2.0.5,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00431.dicom,Animas Medical Clinic,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,80 kVp (pediatric),200 mA,1500,1500,True
+chest_xray_00432.dicom,Love Hospital Center,Dr. David Lee,Philips DigitalDiagnost,5.5.2.1,AP,80 kVp (pediatric),400 mA,1500,1500,False
+chest_xray_00433.dicom,Love Hospital Center,Dr. Kevin Walker,Siemens Ysio Max,4.0.1,AP,Variable kVp,Automatic exposure control (AEC),1300,1900,True
+chest_xray_00434.dicom,Trinity Clinic,Dr. Sarah Anderson,GE Healthcare Discovery XR656,5.5.2.1,PA,Variable kVp,Low mA (low-dose),1500,1000,True
+chest_xray_00435.dicom,Love Hospital Center,Dr. Michael Patel,Siemens Ysio Max,2.1.3.4,PA,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00436.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Toshiba Infinix-i Sky,2.0.0.8,PA,80 kVp (pediatric),Automatic exposure control (AEC),1100,1000,True
+chest_xray_00437.dicom,Trinity Clinic,Dr. David Lee,GE Healthcare Discovery XR656,5.5.2.1,AP,120 kVp,Automatic exposure control (AEC),1300,1300,False
+chest_xray_00438.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,4.1.6.3,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00439.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.1.6.3,AP,Variable kVp,200 mA,2000,1800,False
+chest_xray_00440.dicom,Riverside Community Hospital,Dr. Michael Patel,Philips DigitalDiagnost,2.0.0.8,PA,140 kVp,200 mA,1100,1000,True
+chest_xray_00441.dicom,Noble Community Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,4.0.1,PA,Variable kVp,200 mA,1900,1300,False
+chest_xray_00442.dicom,Love Hospital Center,Dr. Jessica Martinez,Siemens Ysio Max,2.1.3.4,AP,Variable kVp,200 mA,1300,1100,True
+chest_xray_00443.dicom,Rosemary General Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,4.0.1,AP,Variable kVp,400 mA,1100,1500,True
+chest_xray_00444.dicom,Rosemary General Hospital,Dr. Michael Patel,Siemens Ysio Max,4.1.6.3,PA,120 kVp,400 mA,1500,1000,True
+chest_xray_00445.dicom,Stillwater Community Hospital,Dr. Brian Wilson,Philips DigitalDiagnost,1.7.3,PA,80 kVp (pediatric),200 mA,1900,1100,True
+chest_xray_00446.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,4.0.1,PA,100 kVp,Low mA (low-dose),1100,1300,True
+chest_xray_00447.dicom,Trinity Clinic,Dr. Jessica Martinez,Philips DigitalDiagnost,4.1.6.3,AP,80 kVp (pediatric),100 mA,1100,1500,True
+chest_xray_00448.dicom,Animas Medical Clinic,Dr. Kevin Walker,Philips DigitalDiagnost,2.0.0.8,AP,Variable kVp,200 mA,1100,1900,True
+chest_xray_00449.dicom,Noble Community Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.1.6.3,PA,100 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00450.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00451.dicom,Love Hospital Center,Dr. Kevin Walker,Siemens Ysio Max,4.1.6.3,PA,140 kVp,400 mA,1900,1500,True
+chest_xray_00452.dicom,Noble Community Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,4.0.1,PA,140 kVp,400 mA,2000,1800,False
+chest_xray_00453.dicom,Noble Community Hospital,Dr. Sarah Anderson,Siemens Ysio Max,1.7.3,PA,80 kVp (pediatric),Automatic exposure control (AEC),1900,1100,True
+chest_xray_00454.dicom,Grand Meadow Medical Center,Dr. David Lee,Toshiba Infinix-i Sky,5.5.2.1,PA,140 kVp,Automatic exposure control (AEC),1500,1000,False
+chest_xray_00455.dicom,Animas Medical Clinic,Dr. Kevin Walker,GE Healthcare Discovery XR656,5.5.2.1,AP,Variable kVp,200 mA,2000,1800,False
+chest_xray_00456.dicom,Trinity Clinic,Dr. Brian Wilson,GE Healthcare Discovery XR656,1.7.3,PA,140 kVp,Automatic exposure control (AEC),1900,1100,True
+chest_xray_00457.dicom,Noble Community Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,80 kVp (pediatric),400 mA,1900,1900,False
+chest_xray_00458.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,2.0.0.8,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00459.dicom,Trinity Clinic,Dr. Kevin Walker,Toshiba Infinix-i Sky,5.5.2.1,AP,100 kVp,200 mA,1900,1900,True
+chest_xray_00460.dicom,Animas Medical Clinic,Dr. Brian Wilson,Philips DigitalDiagnost,2.1.3.4,AP,Variable kVp,400 mA,1900,1900,True
+chest_xray_00461.dicom,Riverside Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,4.0.1,AP,140 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00462.dicom,Love Hospital Center,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,AP,80 kVp (pediatric),100 mA,1900,1000,True
+chest_xray_00463.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,80 kVp (pediatric),Automatic exposure control (AEC),1500,1000,True
+chest_xray_00464.dicom,Grand Meadow Medical Center,Dr. David Lee,Philips DigitalDiagnost,4.0.1,AP,140 kVp,Low mA (low-dose),1300,1900,False
+chest_xray_00465.dicom,Rosemary General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,4.1.6.3,AP,120 kVp,200 mA,1300,1500,True
+chest_xray_00466.dicom,Noble Community Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,3.2.0.5,PA,100 kVp,400 mA,1300,1000,True
+chest_xray_00467.dicom,Stillwater Community Hospital,Dr. Laura Smith,Siemens Ysio Max,5.5.2.1,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00468.dicom,Stillwater General Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,5.5.2.1,PA,140 kVp,200 mA,1300,1300,True
+chest_xray_00469.dicom,Animas Medical Clinic,Dr. David Lee,Siemens Ysio Max,4.1.6.3,PA,80 kVp (pediatric),400 mA,1300,1000,False
+chest_xray_00470.dicom,Riverside Community Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,5.5.2.1,PA,80 kVp (pediatric),Low mA (low-dose),1100,1100,True
+chest_xray_00471.dicom,Animas Medical Clinic,Dr. Christopher Davis,Toshiba Infinix-i Sky,4.1.6.3,AP,100 kVp,Low mA (low-dose),1300,1500,True
+chest_xray_00472.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,Variable kVp,200 mA,1500,1500,True
+chest_xray_00473.dicom,Trinity Clinic,Dr. David Lee,Siemens Ysio Max,4.0.1,PA,120 kVp,200 mA,1300,1900,False
+chest_xray_00474.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,1.7.3,PA,120 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00475.dicom,Stillwater General Hospital,Dr. Emily Johnson,Siemens Ysio Max,2.0.0.8,AP,120 kVp,400 mA,2000,1800,False
+chest_xray_00476.dicom,Stillwater General Hospital,Dr. David Lee,Philips DigitalDiagnost,3.2.0.5,AP,120 kVp,100 mA,1900,1300,False
+chest_xray_00477.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,Variable kVp,100 mA,1300,1300,True
+chest_xray_00478.dicom,Animas Medical Clinic,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,Variable kVp,100 mA,2000,1800,False
+chest_xray_00479.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,2.0.0.8,PA,Variable kVp,Low mA (low-dose),1500,1300,True
+chest_xray_00480.dicom,Noble Community Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,5.5.2.1,PA,Variable kVp,Automatic exposure control (AEC),1900,1300,True
+chest_xray_00481.dicom,Trinity Clinic,Dr. David Lee,GE Healthcare Discovery XR656,4.1.6.3,PA,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00482.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Toshiba Infinix-i Sky,2.1.3.4,AP,100 kVp,Automatic exposure control (AEC),1500,1100,True
+chest_xray_00483.dicom,Riverside Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,200 mA,1300,1300,True
+chest_xray_00484.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,1.7.3,AP,Variable kVp,Low mA (low-dose),1900,1900,True
+chest_xray_00485.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,2.0.0.8,PA,80 kVp (pediatric),100 mA,1300,1900,True
+chest_xray_00486.dicom,Noble Community Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,1.7.3,PA,140 kVp,200 mA,1100,1000,True
+chest_xray_00487.dicom,Stillwater General Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,120 kVp,100 mA,1500,1300,True
+chest_xray_00488.dicom,Stillwater General Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,2.1.3.4,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00489.dicom,Stillwater General Hospital,Dr. Christopher Davis,Siemens Ysio Max,4.0.1,PA,80 kVp (pediatric),Low mA (low-dose),1900,1500,True
+chest_xray_00490.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,2.0.0.8,AP,100 kVp,Low mA (low-dose),1900,1100,True
+chest_xray_00491.dicom,Stillwater General Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,1.7.3,AP,140 kVp,200 mA,1300,1300,True
+chest_xray_00492.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Siemens Ysio Max,1.7.3,PA,120 kVp,400 mA,1900,1500,True
+chest_xray_00493.dicom,Love Hospital Center,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,140 kVp,100 mA,1900,1300,True
+chest_xray_00494.dicom,Love Hospital Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,Variable kVp,Low mA (low-dose),1100,1500,True
+chest_xray_00495.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,1.7.3,AP,Variable kVp,400 mA,2000,1800,False
+chest_xray_00496.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,PA,Variable kVp,400 mA,1500,1900,True
+chest_xray_00497.dicom,Trinity Clinic,Dr. Brian Wilson,Philips DigitalDiagnost,2.1.3.4,AP,80 kVp (pediatric),Automatic exposure control (AEC),1500,1100,True
+chest_xray_00498.dicom,Rosemary General Hospital,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,PA,140 kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00499.dicom,Grand Meadow Medical Center,Dr. Brian Wilson,Toshiba Infinix-i Sky,3.2.0.5,PA,80 kVp (pediatric),200 mA,1300,1900,True
+chest_xray_00500.dicom,Rosemary General Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,PA,80 kVp (pediatric),400 mA,1100,1000,True
+chest_xray_00501.dicom,Rosemary General Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,3.2.0.5,PA,120 kVp,100 mA,1500,1500,True
+chest_xray_00502.dicom,Trinity Clinic,Dr. Brian Wilson,Siemens Ysio Max,3.2.0.5,PA,120 kVp,400 mA,1900,1000,True
+chest_xray_00503.dicom,Animas Medical Clinic,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,Variable kVp,100 mA,1300,1300,True
+chest_xray_00504.dicom,Trinity Clinic,Dr. Emily Johnson,Siemens Ysio Max,5.5.2.1,AP,140 kVp,Low mA (low-dose),1100,1500,True
+chest_xray_00505.dicom,Love Hospital Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,4.1.6.3,PA,120 kVp,400 mA,1300,1900,True
+chest_xray_00506.dicom,Grand Meadow Medical Center,Dr. David Lee,Toshiba Infinix-i Sky,4.0.1,PA,140 kVp,Low mA (low-dose),1100,1300,False
+chest_xray_00507.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Siemens Ysio Max,1.7.3,PA,100 kVp,400 mA,1500,1000,True
+chest_xray_00508.dicom,Riverside Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,3.2.0.5,AP,80 kVp (pediatric),Low mA (low-dose),1900,1000,True
+chest_xray_00509.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,AP,120 kVp,200 mA,1300,1300,True
+chest_xray_00510.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,PA,120 kVp,400 mA,1900,1300,True
+chest_xray_00511.dicom,Riverside Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,AP,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00512.dicom,Stillwater General Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,AP,Variable kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00513.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00514.dicom,Summerstone Medical Center,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,AP,140 kVp,200 mA,1300,1900,True
+chest_xray_00515.dicom,Rosemary General Hospital,Dr. Brian Wilson,Siemens Ysio Max,4.1.6.3,PA,120 kVp,400 mA,1100,1500,True
+chest_xray_00516.dicom,Noble Community Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,1.7.3,PA,140 kVp,400 mA,1900,1000,True
+chest_xray_00517.dicom,Summerstone Medical Center,Dr. Brian Wilson,Siemens Ysio Max,2.1.3.4,AP,140 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00518.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,120 kVp,200 mA,1900,1000,True
+chest_xray_00519.dicom,Animas Medical Clinic,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,120 kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00520.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Siemens Ysio Max,2.0.0.8,AP,80 kVp (pediatric),200 mA,1300,1000,True
+chest_xray_00521.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,4.1.6.3,PA,100 kVp,400 mA,1900,1500,True
+chest_xray_00522.dicom,Love Hospital Center,Dr. Michael Patel,Philips DigitalDiagnost,3.2.0.5,PA,Variable kVp,100 mA,2000,1800,False
+chest_xray_00523.dicom,Love Hospital Center,Dr. David Lee,Toshiba Infinix-i Sky,4.1.6.3,PA,100 kVp,400 mA,1100,1900,False
+chest_xray_00524.dicom,Stillwater Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,1.7.3,PA,120 kVp,400 mA,1100,1900,True
+chest_xray_00525.dicom,Trinity Clinic,Dr. Christopher Davis,Siemens Ysio Max,4.1.6.3,AP,120 kVp,Automatic exposure control (AEC),1300,1900,True
+chest_xray_00526.dicom,Stillwater Community Hospital,Dr. Michael Patel,Siemens Ysio Max,1.7.3,PA,140 kVp,200 mA,1900,1100,True
+chest_xray_00527.dicom,Summerstone Medical Center,Dr. Christopher Davis,Toshiba Infinix-i Sky,1.7.3,AP,Variable kVp,400 mA,1900,1100,True
+chest_xray_00528.dicom,Stillwater General Hospital,Dr. Emily Johnson,Siemens Ysio Max,4.0.1,PA,140 kVp,200 mA,1100,1100,True
+chest_xray_00529.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,120 kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00530.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,5.5.2.1,AP,100 kVp,100 mA,1300,1000,True
+chest_xray_00531.dicom,Noble Community Hospital,Dr. Jessica Martinez,Toshiba Infinix-i Sky,3.2.0.5,AP,140 kVp,400 mA,1900,1000,True
+chest_xray_00532.dicom,Summerstone Medical Center,Dr. Laura Smith,Philips DigitalDiagnost,4.0.1,AP,140 kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00533.dicom,Trinity Clinic,Dr. Michael Patel,Siemens Ysio Max,4.1.6.3,AP,120 kVp,400 mA,1300,1000,True
+chest_xray_00534.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,140 kVp,Automatic exposure control (AEC),1900,1500,True
+chest_xray_00535.dicom,Trinity Clinic,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00536.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,Variable kVp,200 mA,1900,1000,True
+chest_xray_00537.dicom,Stillwater Community Hospital,Dr. Michael Patel,Philips DigitalDiagnost,2.1.3.4,PA,120 kVp,Automatic exposure control (AEC),1100,1000,True
+chest_xray_00538.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Toshiba Infinix-i Sky,4.0.1,PA,Variable kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00539.dicom,Love Hospital Center,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,1.7.3,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00540.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,5.5.2.1,PA,80 kVp (pediatric),Automatic exposure control (AEC),1300,1300,True
+chest_xray_00541.dicom,Animas Medical Clinic,Dr. Laura Smith,Toshiba Infinix-i Sky,4.0.1,PA,100 kVp,200 mA,1900,1100,True
+chest_xray_00542.dicom,Riverside Community Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,1.7.3,AP,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00543.dicom,Stillwater General Hospital,Dr. Michael Patel,Philips DigitalDiagnost,2.1.3.4,PA,100 kVp,Low mA (low-dose),1100,1900,True
+chest_xray_00544.dicom,Animas Medical Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,4.0.1,PA,140 kVp,400 mA,1500,1100,False
+chest_xray_00545.dicom,Summerstone Medical Center,Dr. Sarah Anderson,Siemens Ysio Max,2.0.0.8,PA,Variable kVp,Automatic exposure control (AEC),1500,1000,True
+chest_xray_00546.dicom,Trinity Clinic,Dr. Jennifer Carter,GE Healthcare Discovery XR656,3.2.0.5,PA,80 kVp (pediatric),400 mA,1900,1000,True
+chest_xray_00547.dicom,Rosemary General Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,1.7.3,PA,120 kVp,Automatic exposure control (AEC),1300,1300,True
+chest_xray_00548.dicom,Rosemary General Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,1.7.3,AP,140 kVp,400 mA,2000,1800,False
+chest_xray_00549.dicom,Noble Community Hospital,Dr. Michael Patel,Philips DigitalDiagnost,5.5.2.1,PA,120 kVp,100 mA,1500,1100,True
+chest_xray_00550.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Philips DigitalDiagnost,4.1.6.3,AP,140 kVp,200 mA,1300,1300,True
+chest_xray_00551.dicom,Animas Medical Clinic,Dr. Christopher Davis,Toshiba Infinix-i Sky,1.7.3,PA,120 kVp,Low mA (low-dose),1100,1100,True
+chest_xray_00552.dicom,Grand Meadow Medical Center,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,PA,80 kVp (pediatric),400 mA,1900,1000,False
+chest_xray_00553.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,2.0.0.8,AP,Variable kVp,Low mA (low-dose),1100,1900,True
+chest_xray_00554.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,Automatic exposure control (AEC),1300,1500,True
+chest_xray_00555.dicom,Animas Medical Clinic,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,PA,100 kVp,100 mA,1100,1900,True
+chest_xray_00556.dicom,Noble Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,2.0.0.8,AP,140 kVp,100 mA,1500,1000,True
+chest_xray_00557.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Siemens Ysio Max,4.1.6.3,AP,140 kVp,200 mA,1100,1500,True
+chest_xray_00558.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Siemens Ysio Max,5.5.2.1,PA,120 kVp,400 mA,1500,1000,True
+chest_xray_00559.dicom,Trinity Clinic,Dr. Kevin Walker,GE Healthcare Discovery XR656,3.2.0.5,PA,Variable kVp,400 mA,1100,1500,True
+chest_xray_00560.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Siemens Ysio Max,5.5.2.1,PA,Variable kVp,400 mA,2000,1800,False
+chest_xray_00561.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,GE Healthcare Discovery XR656,1.7.3,AP,80 kVp (pediatric),400 mA,1500,1100,True
+chest_xray_00562.dicom,Summerstone Medical Center,Dr. Emily Johnson,Philips DigitalDiagnost,2.0.0.8,PA,100 kVp,200 mA,1900,1300,True
+chest_xray_00563.dicom,Love Hospital Center,Dr. Christopher Davis,Philips DigitalDiagnost,2.0.0.8,PA,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00564.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,5.5.2.1,AP,120 kVp,100 mA,1100,1300,True
+chest_xray_00565.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,4.1.6.3,AP,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00566.dicom,Love Hospital Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,80 kVp (pediatric),Low mA (low-dose),2000,1800,False
+chest_xray_00567.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,1.7.3,AP,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00568.dicom,Summerstone Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,4.0.1,AP,140 kVp,100 mA,1500,1500,True
+chest_xray_00569.dicom,Riverside Community Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,1.7.3,PA,140 kVp,200 mA,1900,1500,True
+chest_xray_00570.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,Siemens Ysio Max,4.0.1,AP,100 kVp,400 mA,1300,1000,True
+chest_xray_00571.dicom,Love Hospital Center,Dr. Jennifer Carter,Philips DigitalDiagnost,2.1.3.4,PA,Variable kVp,200 mA,1300,1000,True
+chest_xray_00572.dicom,Summerstone Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,Variable kVp,100 mA,1900,1000,True
+chest_xray_00573.dicom,Stillwater Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,4.0.1,PA,Variable kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00574.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,200 mA,1100,1100,True
+chest_xray_00575.dicom,Noble Community Hospital,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,AP,120 kVp,Automatic exposure control (AEC),1900,1100,False
+chest_xray_00576.dicom,Trinity Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,80 kVp (pediatric),Low mA (low-dose),2000,1800,False
+chest_xray_00577.dicom,Trinity Clinic,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.1.6.3,PA,80 kVp (pediatric),100 mA,1300,1100,True
+chest_xray_00578.dicom,Noble Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,1.7.3,AP,120 kVp,Automatic exposure control (AEC),1500,1000,True
+chest_xray_00579.dicom,Summerstone Medical Center,Dr. Jessica Martinez,GE Healthcare Discovery XR656,2.1.3.4,PA,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00580.dicom,Summerstone Medical Center,Dr. Kevin Walker,Siemens Ysio Max,3.2.0.5,PA,120 kVp,Low mA (low-dose),1900,1000,True
+chest_xray_00581.dicom,Summerstone Medical Center,Dr. Laura Smith,Siemens Ysio Max,3.2.0.5,PA,100 kVp,200 mA,1900,1500,True
+chest_xray_00582.dicom,Rosemary General Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,1.7.3,PA,140 kVp,200 mA,1900,1300,True
+chest_xray_00583.dicom,Noble Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,2.1.3.4,PA,100 kVp,Low mA (low-dose),1100,1000,True
+chest_xray_00584.dicom,Trinity Clinic,Dr. Jessica Martinez,Siemens Ysio Max,4.1.6.3,PA,100 kVp,400 mA,2000,1800,False
+chest_xray_00585.dicom,Love Hospital Center,Dr. David Lee,Shimadzu Radspeed Pro Edge,4.0.1,AP,Variable kVp,Low mA (low-dose),1500,1900,False
+chest_xray_00586.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,80 kVp (pediatric),400 mA,1900,1500,True
+chest_xray_00587.dicom,Noble Community Hospital,Dr. David Lee,Toshiba Infinix-i Sky,4.0.1,PA,80 kVp (pediatric),200 mA,1300,1300,False
+chest_xray_00588.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Siemens Ysio Max,5.5.2.1,PA,100 kVp,200 mA,1900,1000,True
+chest_xray_00589.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,80 kVp (pediatric),Automatic exposure control (AEC),1100,1000,True
+chest_xray_00590.dicom,Riverside Community Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00591.dicom,Rosemary General Hospital,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,AP,Variable kVp,Automatic exposure control (AEC),1900,1900,False
+chest_xray_00592.dicom,Riverside Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,5.5.2.1,PA,100 kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00593.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,4.1.6.3,AP,140 kVp,Automatic exposure control (AEC),1900,1900,True
+chest_xray_00594.dicom,Noble Community Hospital,Dr. Michael Patel,Siemens Ysio Max,2.1.3.4,PA,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00595.dicom,Animas Medical Clinic,Dr. Kevin Walker,GE Healthcare Discovery XR656,5.5.2.1,PA,Variable kVp,100 mA,1900,1300,True
+chest_xray_00596.dicom,Summerstone Medical Center,Dr. Christopher Davis,Siemens Ysio Max,1.7.3,PA,Variable kVp,200 mA,1900,1500,True
+chest_xray_00597.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Siemens Ysio Max,4.0.1,PA,140 kVp,Automatic exposure control (AEC),1100,1900,True
+chest_xray_00598.dicom,Animas Medical Clinic,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.0.0.8,AP,140 kVp,100 mA,1500,1900,True
+chest_xray_00599.dicom,Love Hospital Center,Dr. Brian Wilson,Philips DigitalDiagnost,2.1.3.4,AP,Variable kVp,400 mA,2000,1800,False
+chest_xray_00600.dicom,Trinity Clinic,Dr. Brian Wilson,Siemens Ysio Max,3.2.0.5,PA,100 kVp,200 mA,1300,1100,True
+chest_xray_00601.dicom,Rosemary General Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,1.7.3,PA,80 kVp (pediatric),100 mA,1900,1100,True
+chest_xray_00602.dicom,Love Hospital Center,Dr. Kevin Walker,Siemens Ysio Max,1.7.3,AP,Variable kVp,100 mA,1300,1100,True
+chest_xray_00603.dicom,Trinity Clinic,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,4.0.1,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00604.dicom,Noble Community Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,5.5.2.1,AP,100 kVp,100 mA,1300,1100,True
+chest_xray_00605.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,140 kVp,100 mA,1900,1000,True
+chest_xray_00606.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,140 kVp,200 mA,1300,1000,True
+chest_xray_00607.dicom,Love Hospital Center,Dr. Christopher Davis,Siemens Ysio Max,2.1.3.4,PA,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00608.dicom,Love Hospital Center,Dr. Laura Smith,Toshiba Infinix-i Sky,1.7.3,AP,100 kVp,Low mA (low-dose),1900,1000,True
+chest_xray_00609.dicom,Trinity Clinic,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.0.0.8,AP,140 kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00610.dicom,Riverside Community Hospital,Dr. Christopher Davis,Siemens Ysio Max,4.0.1,AP,Variable kVp,100 mA,2000,1800,False
+chest_xray_00611.dicom,Riverside Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,1.7.3,PA,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00612.dicom,Trinity Clinic,Dr. Emily Johnson,Philips DigitalDiagnost,4.1.6.3,AP,80 kVp (pediatric),Automatic exposure control (AEC),1500,1500,True
+chest_xray_00613.dicom,Riverside Community Hospital,Dr. Jessica Martinez,Toshiba Infinix-i Sky,4.0.1,PA,100 kVp,200 mA,1500,1000,True
+chest_xray_00614.dicom,Trinity Clinic,Dr. Jessica Martinez,Philips DigitalDiagnost,3.2.0.5,PA,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00615.dicom,Stillwater Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,4.1.6.3,AP,120 kVp,Low mA (low-dose),1500,1500,True
+chest_xray_00616.dicom,Love Hospital Center,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,1.7.3,AP,120 kVp,200 mA,1300,1100,True
+chest_xray_00617.dicom,Riverside Community Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,2.0.0.8,AP,Variable kVp,400 mA,1900,1900,True
+chest_xray_00618.dicom,Riverside Community Hospital,Dr. Brian Wilson,Siemens Ysio Max,2.1.3.4,PA,80 kVp (pediatric),Low mA (low-dose),1300,1900,True
+chest_xray_00619.dicom,Summerstone Medical Center,Dr. Sarah Anderson,GE Healthcare Discovery XR656,3.2.0.5,AP,Variable kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00620.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Philips DigitalDiagnost,2.0.0.8,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00621.dicom,Noble Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,5.5.2.1,AP,120 kVp,200 mA,1500,1100,True
+chest_xray_00622.dicom,Rosemary General Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,1.7.3,AP,Variable kVp,Low mA (low-dose),1100,1900,True
+chest_xray_00623.dicom,Summerstone Medical Center,Dr. Brian Wilson,Toshiba Infinix-i Sky,4.1.6.3,PA,140 kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00624.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Toshiba Infinix-i Sky,3.2.0.5,AP,140 kVp,400 mA,1500,1900,True
+chest_xray_00625.dicom,Riverside Community Hospital,Dr. Michael Patel,Philips DigitalDiagnost,4.1.6.3,PA,Variable kVp,400 mA,2000,1800,False
+chest_xray_00626.dicom,Animas Medical Clinic,Dr. Kevin Walker,GE Healthcare Discovery XR656,3.2.0.5,AP,120 kVp,100 mA,1500,1500,True
+chest_xray_00627.dicom,Noble Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,2.0.0.8,AP,80 kVp (pediatric),200 mA,1500,1300,True
+chest_xray_00628.dicom,Animas Medical Clinic,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,AP,100 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00629.dicom,Animas Medical Clinic,Dr. Laura Smith,GE Healthcare Discovery XR656,4.0.1,AP,80 kVp (pediatric),400 mA,1300,1000,True
+chest_xray_00630.dicom,Rosemary General Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,AP,100 kVp,400 mA,1900,1900,True
+chest_xray_00631.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,2.1.3.4,AP,100 kVp,100 mA,1900,1300,True
+chest_xray_00632.dicom,Trinity Clinic,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,4.0.1,AP,140 kVp,200 mA,1300,1900,True
+chest_xray_00633.dicom,Love Hospital Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,140 kVp,400 mA,1100,1300,True
+chest_xray_00634.dicom,Love Hospital Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,4.0.1,AP,Variable kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00635.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Siemens Ysio Max,4.0.1,AP,100 kVp,400 mA,2000,1800,False
+chest_xray_00636.dicom,Trinity Clinic,Dr. Michael Patel,Toshiba Infinix-i Sky,3.2.0.5,AP,120 kVp,200 mA,1900,1000,True
+chest_xray_00637.dicom,Stillwater General Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,5.5.2.1,PA,100 kVp,400 mA,2000,1800,False
+chest_xray_00638.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,1.7.3,PA,100 kVp,Automatic exposure control (AEC),1500,1300,True
+chest_xray_00639.dicom,Rosemary General Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,5.5.2.1,AP,80 kVp (pediatric),Automatic exposure control (AEC),1300,1100,True
+chest_xray_00640.dicom,Love Hospital Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,120 kVp,400 mA,1300,1900,True
+chest_xray_00641.dicom,Rosemary General Hospital,Dr. David Lee,Siemens Ysio Max,5.5.2.1,PA,120 kVp,Automatic exposure control (AEC),1100,1500,False
+chest_xray_00642.dicom,Riverside Community Hospital,Dr. David Lee,Siemens Ysio Max,4.0.1,AP,Variable kVp,Low mA (low-dose),1900,1500,False
+chest_xray_00643.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Siemens Ysio Max,2.0.0.8,AP,80 kVp (pediatric),200 mA,1900,1000,True
+chest_xray_00644.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,120 kVp,Low mA (low-dose),1100,1300,True
+chest_xray_00645.dicom,Riverside Community Hospital,Dr. Laura Smith,Toshiba Infinix-i Sky,2.1.3.4,AP,140 kVp,Low mA (low-dose),1300,1500,True
+chest_xray_00646.dicom,Stillwater Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,4.0.1,PA,Variable kVp,Automatic exposure control (AEC),1500,1100,True
+chest_xray_00647.dicom,Rosemary General Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,100 kVp,200 mA,1100,1100,True
+chest_xray_00648.dicom,Stillwater Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.1.6.3,AP,80 kVp (pediatric),100 mA,1300,1000,True
+chest_xray_00649.dicom,Riverside Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.0.1,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00650.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,Siemens Ysio Max,2.0.0.8,AP,80 kVp (pediatric),200 mA,1900,1100,True
+chest_xray_00651.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,4.1.6.3,AP,120 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00652.dicom,Grand Meadow Medical Center,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.0.0.8,PA,100 kVp,100 mA,1300,1100,True
+chest_xray_00653.dicom,Trinity Clinic,Dr. Christopher Davis,GE Healthcare Discovery XR656,4.0.1,AP,140 kVp,Automatic exposure control (AEC),1500,1500,True
+chest_xray_00654.dicom,Stillwater General Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,1.7.3,AP,80 kVp (pediatric),Low mA (low-dose),1300,1300,True
+chest_xray_00655.dicom,Stillwater General Hospital,Dr. Brian Wilson,Siemens Ysio Max,1.7.3,PA,Variable kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00656.dicom,Trinity Clinic,Dr. Kevin Walker,Siemens Ysio Max,1.7.3,AP,Variable kVp,200 mA,1100,1000,True
+chest_xray_00657.dicom,Riverside Community Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,AP,100 kVp,400 mA,1300,1300,True
+chest_xray_00658.dicom,Summerstone Medical Center,Dr. Laura Smith,Toshiba Infinix-i Sky,4.0.1,AP,100 kVp,200 mA,1900,1000,True
+chest_xray_00659.dicom,Noble Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,4.0.1,PA,120 kVp,Automatic exposure control (AEC),1100,1300,True
+chest_xray_00660.dicom,Love Hospital Center,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,Variable kVp,Automatic exposure control (AEC),1900,1900,True
+chest_xray_00661.dicom,Love Hospital Center,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,1.7.3,PA,80 kVp (pediatric),Low mA (low-dose),1300,1000,True
+chest_xray_00662.dicom,Love Hospital Center,Dr. Christopher Davis,Siemens Ysio Max,4.1.6.3,PA,120 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00663.dicom,Noble Community Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,4.0.1,AP,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00664.dicom,Stillwater General Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00665.dicom,Stillwater Community Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.0.1,AP,140 kVp,100 mA,1500,1100,True
+chest_xray_00666.dicom,Grand Meadow Medical Center,Dr. Laura Smith,GE Healthcare Discovery XR656,2.1.3.4,AP,100 kVp,100 mA,2000,1800,False
+chest_xray_00667.dicom,Riverside Community Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,3.2.0.5,AP,100 kVp,Low mA (low-dose),1100,1900,True
+chest_xray_00668.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,1.7.3,PA,140 kVp,100 mA,1300,1500,True
+chest_xray_00669.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,2.1.3.4,PA,100 kVp,100 mA,1900,1900,True
+chest_xray_00670.dicom,Animas Medical Clinic,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00671.dicom,Summerstone Medical Center,Dr. Sarah Anderson,Toshiba Infinix-i Sky,1.7.3,PA,Variable kVp,200 mA,1100,1500,True
+chest_xray_00672.dicom,Riverside Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,4.1.6.3,PA,Variable kVp,200 mA,1900,1900,True
+chest_xray_00673.dicom,Summerstone Medical Center,Dr. Kevin Walker,Siemens Ysio Max,4.1.6.3,AP,140 kVp,Low mA (low-dose),1900,1000,True
+chest_xray_00674.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Siemens Ysio Max,3.2.0.5,AP,80 kVp (pediatric),Low mA (low-dose),1300,1100,True
+chest_xray_00675.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,80 kVp (pediatric),400 mA,1100,1000,True
+chest_xray_00676.dicom,Grand Meadow Medical Center,Dr. Laura Smith,GE Healthcare Discovery XR656,2.0.0.8,PA,140 kVp,200 mA,2000,1800,False
+chest_xray_00677.dicom,Riverside Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,3.2.0.5,AP,120 kVp,200 mA,2000,1800,False
+chest_xray_00678.dicom,Noble Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,4.1.6.3,AP,80 kVp (pediatric),200 mA,2000,1800,False
+chest_xray_00679.dicom,Animas Medical Clinic,Dr. Brian Wilson,GE Healthcare Discovery XR656,4.0.1,PA,140 kVp,100 mA,1900,1500,True
+chest_xray_00680.dicom,Grand Meadow Medical Center,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00681.dicom,Grand Meadow Medical Center,Dr. David Lee,Shimadzu Radspeed Pro Edge,4.0.1,PA,140 kVp,400 mA,2000,1800,False
+chest_xray_00682.dicom,Summerstone Medical Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,3.2.0.5,AP,Variable kVp,200 mA,1100,1100,True
+chest_xray_00683.dicom,Love Hospital Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,1.7.3,PA,100 kVp,200 mA,1500,1900,True
+chest_xray_00684.dicom,Noble Community Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,100 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00685.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,2.0.0.8,AP,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00686.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Siemens Ysio Max,3.2.0.5,AP,80 kVp (pediatric),100 mA,1300,1900,True
+chest_xray_00687.dicom,Grand Meadow Medical Center,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,PA,120 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00688.dicom,Love Hospital Center,Dr. Brian Wilson,Philips DigitalDiagnost,4.0.1,PA,100 kVp,400 mA,1300,1000,True
+chest_xray_00689.dicom,Trinity Clinic,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.0.0.8,PA,80 kVp (pediatric),200 mA,2000,1800,False
+chest_xray_00690.dicom,Stillwater General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,AP,100 kVp,Low mA (low-dose),1100,1100,True
+chest_xray_00691.dicom,Love Hospital Center,Dr. Brian Wilson,Siemens Ysio Max,4.0.1,PA,100 kVp,200 mA,2000,1800,False
+chest_xray_00692.dicom,Trinity Clinic,Dr. Laura Smith,Toshiba Infinix-i Sky,4.1.6.3,AP,140 kVp,Low mA (low-dose),1300,1100,True
+chest_xray_00693.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.1.3.4,AP,100 kVp,100 mA,1900,1300,True
+chest_xray_00694.dicom,Riverside Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,2.1.3.4,PA,Variable kVp,400 mA,2000,1800,False
+chest_xray_00695.dicom,Love Hospital Center,Dr. Kevin Walker,Siemens Ysio Max,3.2.0.5,AP,100 kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00696.dicom,Stillwater Community Hospital,Dr. Christopher Davis,GE Healthcare Discovery XR656,2.1.3.4,PA,80 kVp (pediatric),200 mA,2000,1800,False
+chest_xray_00697.dicom,Love Hospital Center,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,4.0.1,PA,Variable kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00698.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,2.0.0.8,AP,80 kVp (pediatric),200 mA,1100,1300,True
+chest_xray_00699.dicom,Noble Community Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.1.6.3,AP,100 kVp,200 mA,2000,1800,False
+chest_xray_00700.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,PA,Variable kVp,Automatic exposure control (AEC),1300,1000,True
+chest_xray_00701.dicom,Love Hospital Center,Dr. Kevin Walker,Philips DigitalDiagnost,4.0.1,PA,100 kVp,400 mA,1300,1300,True
+chest_xray_00702.dicom,Rosemary General Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.1.3.4,AP,140 kVp,400 mA,2000,1800,False
+chest_xray_00703.dicom,Stillwater General Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,PA,80 kVp (pediatric),100 mA,1500,1500,True
+chest_xray_00704.dicom,Stillwater Community Hospital,Dr. Laura Smith,Siemens Ysio Max,4.0.1,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00705.dicom,Noble Community Hospital,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.0.1,PA,120 kVp,Automatic exposure control (AEC),1500,1500,True
+chest_xray_00706.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Siemens Ysio Max,1.7.3,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00707.dicom,Rosemary General Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,2.0.0.8,AP,80 kVp (pediatric),400 mA,1300,1500,True
+chest_xray_00708.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Siemens Ysio Max,4.1.6.3,PA,Variable kVp,100 mA,1900,1900,True
+chest_xray_00709.dicom,Riverside Community Hospital,Dr. Brian Wilson,Philips DigitalDiagnost,2.1.3.4,PA,120 kVp,Automatic exposure control (AEC),1300,1300,True
+chest_xray_00710.dicom,Trinity Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,80 kVp (pediatric),200 mA,1500,1300,False
+chest_xray_00711.dicom,Summerstone Medical Center,Dr. Jessica Martinez,Philips DigitalDiagnost,2.0.0.8,AP,80 kVp (pediatric),Automatic exposure control (AEC),1900,1900,True
+chest_xray_00712.dicom,Riverside Community Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.0.1,PA,120 kVp,Automatic exposure control (AEC),1900,1300,True
+chest_xray_00713.dicom,Noble Community Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,2.1.3.4,AP,80 kVp (pediatric),Low mA (low-dose),1300,1000,True
+chest_xray_00714.dicom,Stillwater General Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,4.0.1,PA,120 kVp,400 mA,1300,1900,True
+chest_xray_00715.dicom,Love Hospital Center,Dr. Michael Patel,Siemens Ysio Max,1.7.3,PA,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00716.dicom,Noble Community Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,4.1.6.3,AP,100 kVp,400 mA,1900,1100,True
+chest_xray_00717.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,120 kVp,100 mA,1500,1000,True
+chest_xray_00718.dicom,Stillwater General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,4.1.6.3,AP,100 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00719.dicom,Trinity Clinic,Dr. Laura Smith,Toshiba Infinix-i Sky,2.0.0.8,AP,100 kVp,200 mA,1500,1000,True
+chest_xray_00720.dicom,Summerstone Medical Center,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.0.0.8,AP,Variable kVp,200 mA,1100,1300,True
+chest_xray_00721.dicom,Riverside Community Hospital,Dr. Brian Wilson,Philips DigitalDiagnost,2.0.0.8,PA,140 kVp,400 mA,1900,1500,True
+chest_xray_00722.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Siemens Ysio Max,4.0.1,AP,100 kVp,100 mA,1100,1300,True
+chest_xray_00723.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,1.7.3,AP,120 kVp,100 mA,2000,1800,False
+chest_xray_00724.dicom,Noble Community Hospital,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,PA,Variable kVp,100 mA,1500,1000,True
+chest_xray_00725.dicom,Riverside Community Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00726.dicom,Summerstone Medical Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,AP,140 kVp,400 mA,1100,1000,True
+chest_xray_00727.dicom,Noble Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,4.1.6.3,AP,140 kVp,100 mA,1100,1000,True
+chest_xray_00728.dicom,Noble Community Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,4.0.1,AP,Variable kVp,400 mA,1100,1100,True
+chest_xray_00729.dicom,Love Hospital Center,Dr. Kevin Walker,Philips DigitalDiagnost,3.2.0.5,PA,100 kVp,100 mA,1500,1100,True
+chest_xray_00730.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,120 kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00731.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,200 mA,1100,1000,True
+chest_xray_00732.dicom,Animas Medical Clinic,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,80 kVp (pediatric),Low mA (low-dose),1100,1000,True
+chest_xray_00733.dicom,Rosemary General Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,5.5.2.1,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00734.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,3.2.0.5,AP,120 kVp,200 mA,1100,1000,True
+chest_xray_00735.dicom,Grand Meadow Medical Center,Dr. Michael Patel,GE Healthcare Discovery XR656,4.0.1,AP,Variable kVp,200 mA,1300,1900,True
+chest_xray_00736.dicom,Noble Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,5.5.2.1,PA,140 kVp,200 mA,1900,1900,True
+chest_xray_00737.dicom,Summerstone Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,1.7.3,PA,140 kVp,Automatic exposure control (AEC),1300,1500,True
+chest_xray_00738.dicom,Trinity Clinic,Dr. Jennifer Carter,Siemens Ysio Max,5.5.2.1,AP,Variable kVp,200 mA,1100,1300,True
+chest_xray_00739.dicom,Noble Community Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,3.2.0.5,PA,Variable kVp,400 mA,1500,1000,True
+chest_xray_00740.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Siemens Ysio Max,3.2.0.5,AP,120 kVp,100 mA,1500,1300,True
+chest_xray_00741.dicom,Noble Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,Low mA (low-dose),1300,1000,True
+chest_xray_00742.dicom,Riverside Community Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,4.1.6.3,PA,140 kVp,200 mA,1300,1100,True
+chest_xray_00743.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,80 kVp (pediatric),Automatic exposure control (AEC),1100,1500,True
+chest_xray_00744.dicom,Riverside Community Hospital,Dr. Laura Smith,Siemens Ysio Max,2.1.3.4,PA,Variable kVp,400 mA,1900,1300,True
+chest_xray_00745.dicom,Summerstone Medical Center,Dr. Kevin Walker,Philips DigitalDiagnost,4.1.6.3,PA,120 kVp,Low mA (low-dose),1900,1300,True
+chest_xray_00746.dicom,Rosemary General Hospital,Dr. Christopher Davis,Siemens Ysio Max,3.2.0.5,PA,Variable kVp,Low mA (low-dose),1300,1900,True
+chest_xray_00747.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,5.5.2.1,AP,140 kVp,400 mA,1500,1000,True
+chest_xray_00748.dicom,Stillwater General Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,4.0.1,AP,120 kVp,200 mA,1500,1900,True
+chest_xray_00749.dicom,Riverside Community Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,140 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00750.dicom,Love Hospital Center,Dr. Laura Smith,Siemens Ysio Max,1.7.3,AP,Variable kVp,Low mA (low-dose),1900,1100,True
+chest_xray_00751.dicom,Noble Community Hospital,Dr. Michael Patel,Siemens Ysio Max,2.0.0.8,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00752.dicom,Animas Medical Clinic,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,120 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00753.dicom,Animas Medical Clinic,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,PA,120 kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00754.dicom,Stillwater General Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,4.0.1,PA,100 kVp,Automatic exposure control (AEC),1300,1500,True
+chest_xray_00755.dicom,Animas Medical Clinic,Dr. Michael Patel,GE Healthcare Discovery XR656,2.0.0.8,PA,120 kVp,100 mA,1300,1100,True
+chest_xray_00756.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Toshiba Infinix-i Sky,2.1.3.4,AP,Variable kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00757.dicom,Animas Medical Clinic,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,1.7.3,AP,Variable kVp,100 mA,2000,1800,False
+chest_xray_00758.dicom,Summerstone Medical Center,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,100 kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00759.dicom,Riverside Community Hospital,Dr. David Lee,GE Healthcare Discovery XR656,3.2.0.5,PA,Variable kVp,100 mA,1100,1500,False
+chest_xray_00760.dicom,Rosemary General Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00761.dicom,Noble Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,5.5.2.1,AP,140 kVp,400 mA,1300,1500,True
+chest_xray_00762.dicom,Stillwater Community Hospital,Dr. David Lee,GE Healthcare Discovery XR656,4.1.6.3,AP,120 kVp,Low mA (low-dose),1900,1300,False
+chest_xray_00763.dicom,Summerstone Medical Center,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,80 kVp (pediatric),100 mA,1100,1500,True
+chest_xray_00764.dicom,Stillwater General Hospital,Dr. Jessica Martinez,Siemens Ysio Max,4.1.6.3,AP,140 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00765.dicom,Love Hospital Center,Dr. Kevin Walker,Toshiba Infinix-i Sky,1.7.3,PA,80 kVp (pediatric),200 mA,1100,1000,True
+chest_xray_00766.dicom,Stillwater General Hospital,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,PA,120 kVp,200 mA,1100,1900,False
+chest_xray_00767.dicom,Rosemary General Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,5.5.2.1,PA,120 kVp,200 mA,1100,1100,True
+chest_xray_00768.dicom,Animas Medical Clinic,Dr. Emily Johnson,Philips DigitalDiagnost,3.2.0.5,PA,100 kVp,Low mA (low-dose),1100,1000,True
+chest_xray_00769.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,5.5.2.1,AP,100 kVp,400 mA,1900,1500,True
+chest_xray_00770.dicom,Stillwater General Hospital,Dr. Michael Patel,Philips DigitalDiagnost,3.2.0.5,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00771.dicom,Trinity Clinic,Dr. Christopher Davis,Siemens Ysio Max,4.1.6.3,PA,100 kVp,200 mA,1100,1300,True
+chest_xray_00772.dicom,Noble Community Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,2.0.0.8,AP,Variable kVp,100 mA,1100,1900,True
+chest_xray_00773.dicom,Trinity Clinic,Dr. Michael Patel,GE Healthcare Discovery XR656,5.5.2.1,AP,120 kVp,200 mA,2000,1800,False
+chest_xray_00774.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Toshiba Infinix-i Sky,4.0.1,PA,140 kVp,400 mA,1100,1500,True
+chest_xray_00775.dicom,Noble Community Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,1.7.3,PA,140 kVp,200 mA,1500,1000,True
+chest_xray_00776.dicom,Love Hospital Center,Dr. Brian Wilson,Toshiba Infinix-i Sky,4.1.6.3,AP,100 kVp,Automatic exposure control (AEC),1300,1000,True
+chest_xray_00777.dicom,Love Hospital Center,Dr. Christopher Davis,Toshiba Infinix-i Sky,1.7.3,AP,120 kVp,200 mA,2000,1800,False
+chest_xray_00778.dicom,Noble Community Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,4.0.1,AP,80 kVp (pediatric),200 mA,2000,1800,False
+chest_xray_00779.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00780.dicom,Love Hospital Center,Dr. Christopher Davis,GE Healthcare Discovery XR656,1.7.3,AP,80 kVp (pediatric),Automatic exposure control (AEC),1900,1300,True
+chest_xray_00781.dicom,Riverside Community Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,PA,100 kVp,400 mA,1900,1500,True
+chest_xray_00782.dicom,Stillwater Community Hospital,Dr. Christopher Davis,GE Healthcare Discovery XR656,4.1.6.3,PA,Variable kVp,100 mA,1100,1100,True
+chest_xray_00783.dicom,Trinity Clinic,Dr. David Lee,Siemens Ysio Max,3.2.0.5,PA,Variable kVp,Low mA (low-dose),1500,1900,False
+chest_xray_00784.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,3.2.0.5,PA,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00785.dicom,Noble Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,1.7.3,PA,Variable kVp,100 mA,1100,1500,True
+chest_xray_00786.dicom,Trinity Clinic,Dr. David Lee,Siemens Ysio Max,2.0.0.8,AP,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00787.dicom,Noble Community Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,4.1.6.3,PA,80 kVp (pediatric),Low mA (low-dose),1900,1500,True
+chest_xray_00788.dicom,Love Hospital Center,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,100 kVp,Automatic exposure control (AEC),1500,1100,True
+chest_xray_00789.dicom,Rosemary General Hospital,Dr. David Lee,Toshiba Infinix-i Sky,1.7.3,AP,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00790.dicom,Trinity Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,1.7.3,AP,140 kVp,Low mA (low-dose),1100,1500,True
+chest_xray_00791.dicom,Love Hospital Center,Dr. Christopher Davis,Siemens Ysio Max,4.0.1,PA,Variable kVp,Low mA (low-dose),1100,1900,True
+chest_xray_00792.dicom,Animas Medical Clinic,Dr. Jennifer Carter,Siemens Ysio Max,1.7.3,AP,140 kVp,400 mA,1900,1000,True
+chest_xray_00793.dicom,Love Hospital Center,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,PA,140 kVp,Low mA (low-dose),1300,1500,True
+chest_xray_00794.dicom,Stillwater Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,5.5.2.1,PA,140 kVp,Low mA (low-dose),1100,1500,True
+chest_xray_00795.dicom,Rosemary General Hospital,Dr. David Lee,Toshiba Infinix-i Sky,2.0.0.8,PA,120 kVp,Low mA (low-dose),1500,1000,False
+chest_xray_00796.dicom,Grand Meadow Medical Center,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.0.1,AP,120 kVp,400 mA,2000,1800,False
+chest_xray_00797.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Siemens Ysio Max,5.5.2.1,PA,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00798.dicom,Summerstone Medical Center,Dr. Laura Smith,Philips DigitalDiagnost,5.5.2.1,AP,80 kVp (pediatric),200 mA,1300,1500,True
+chest_xray_00799.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,Siemens Ysio Max,1.7.3,PA,140 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00800.dicom,Animas Medical Clinic,Dr. Christopher Davis,GE Healthcare Discovery XR656,4.1.6.3,PA,140 kVp,200 mA,1500,1000,True
+chest_xray_00801.dicom,Animas Medical Clinic,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.1.6.3,PA,100 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00802.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,4.1.6.3,PA,Variable kVp,Automatic exposure control (AEC),1500,1100,True
+chest_xray_00803.dicom,Riverside Community Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,1.7.3,PA,Variable kVp,200 mA,1900,1100,True
+chest_xray_00804.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Toshiba Infinix-i Sky,1.7.3,PA,Variable kVp,400 mA,1500,1100,True
+chest_xray_00805.dicom,Noble Community Hospital,Dr. Jennifer Carter,Siemens Ysio Max,1.7.3,AP,120 kVp,Automatic exposure control (AEC),1900,1100,True
+chest_xray_00806.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Siemens Ysio Max,1.7.3,PA,Variable kVp,100 mA,1500,1000,True
+chest_xray_00807.dicom,Love Hospital Center,Dr. Kevin Walker,GE Healthcare Discovery XR656,4.1.6.3,PA,120 kVp,400 mA,2000,1800,False
+chest_xray_00808.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.0.1,PA,120 kVp,200 mA,2000,1800,False
+chest_xray_00809.dicom,Riverside Community Hospital,Dr. Jennifer Carter,Toshiba Infinix-i Sky,3.2.0.5,PA,80 kVp (pediatric),Automatic exposure control (AEC),1900,1500,True
+chest_xray_00810.dicom,Trinity Clinic,Dr. Jennifer Carter,Siemens Ysio Max,2.0.0.8,PA,140 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00811.dicom,Rosemary General Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,4.0.1,AP,Variable kVp,200 mA,1500,1500,True
+chest_xray_00812.dicom,Trinity Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,5.5.2.1,PA,Variable kVp,400 mA,1900,1000,True
+chest_xray_00813.dicom,Rosemary General Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,140 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00814.dicom,Rosemary General Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,4.1.6.3,PA,100 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00815.dicom,Trinity Clinic,Dr. Michael Patel,Toshiba Infinix-i Sky,2.0.0.8,PA,120 kVp,Low mA (low-dose),1100,1300,True
+chest_xray_00816.dicom,Noble Community Hospital,Dr. David Lee,Toshiba Infinix-i Sky,2.1.3.4,AP,100 kVp,400 mA,1100,1000,False
+chest_xray_00817.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Siemens Ysio Max,4.1.6.3,AP,120 kVp,400 mA,1500,1000,True
+chest_xray_00818.dicom,Trinity Clinic,Dr. Jessica Martinez,Siemens Ysio Max,2.1.3.4,PA,80 kVp (pediatric),400 mA,1500,1500,True
+chest_xray_00819.dicom,Trinity Clinic,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00820.dicom,Stillwater General Hospital,Dr. Michael Patel,Siemens Ysio Max,4.0.1,PA,100 kVp,200 mA,2000,1800,False
+chest_xray_00821.dicom,Stillwater Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,PA,140 kVp,100 mA,1500,1900,True
+chest_xray_00822.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,80 kVp (pediatric),100 mA,1100,1900,True
+chest_xray_00823.dicom,Noble Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,1.7.3,PA,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00824.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Philips DigitalDiagnost,2.0.0.8,PA,Variable kVp,200 mA,1100,1300,True
+chest_xray_00825.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Toshiba Infinix-i Sky,2.1.3.4,AP,80 kVp (pediatric),100 mA,1500,1000,True
+chest_xray_00826.dicom,Trinity Clinic,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,80 kVp (pediatric),Automatic exposure control (AEC),1500,1500,True
+chest_xray_00827.dicom,Grand Meadow Medical Center,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,80 kVp (pediatric),400 mA,1900,1000,True
+chest_xray_00828.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,5.5.2.1,AP,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00829.dicom,Love Hospital Center,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,AP,80 kVp (pediatric),Low mA (low-dose),1100,1500,True
+chest_xray_00830.dicom,Noble Community Hospital,Dr. Kevin Walker,Siemens Ysio Max,2.0.0.8,PA,120 kVp,400 mA,1100,1000,True
+chest_xray_00831.dicom,Stillwater General Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,2.1.3.4,AP,100 kVp,400 mA,1100,1900,True
+chest_xray_00832.dicom,Summerstone Medical Center,Dr. Christopher Davis,Toshiba Infinix-i Sky,4.0.1,AP,100 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00833.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Siemens Ysio Max,2.1.3.4,AP,100 kVp,200 mA,2000,1800,False
+chest_xray_00834.dicom,Stillwater General Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,2.1.3.4,AP,80 kVp (pediatric),Automatic exposure control (AEC),1100,1300,True
+chest_xray_00835.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Siemens Ysio Max,4.0.1,AP,Variable kVp,200 mA,1500,1000,True
+chest_xray_00836.dicom,Trinity Clinic,Dr. Christopher Davis,Philips DigitalDiagnost,4.1.6.3,PA,Variable kVp,Low mA (low-dose),1500,1300,True
+chest_xray_00837.dicom,Stillwater Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,5.5.2.1,PA,Variable kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00838.dicom,Riverside Community Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,5.5.2.1,AP,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00839.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Philips DigitalDiagnost,4.0.1,AP,140 kVp,400 mA,1500,1500,True
+chest_xray_00840.dicom,Animas Medical Clinic,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,Variable kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00841.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00842.dicom,Trinity Clinic,Dr. Laura Smith,Siemens Ysio Max,2.1.3.4,PA,140 kVp,200 mA,1900,1500,True
+chest_xray_00843.dicom,Stillwater General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,PA,80 kVp (pediatric),400 mA,1500,1900,True
+chest_xray_00844.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,1.7.3,AP,140 kVp,Automatic exposure control (AEC),1300,1000,True
+chest_xray_00845.dicom,Stillwater General Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,100 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00846.dicom,Noble Community Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,3.2.0.5,PA,140 kVp,400 mA,1900,1000,True
+chest_xray_00847.dicom,Summerstone Medical Center,Dr. Laura Smith,GE Healthcare Discovery XR656,4.0.1,PA,80 kVp (pediatric),Automatic exposure control (AEC),1900,1300,True
+chest_xray_00848.dicom,Animas Medical Clinic,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,Variable kVp,100 mA,2000,1800,False
+chest_xray_00849.dicom,Trinity Clinic,Dr. Sarah Anderson,Siemens Ysio Max,4.0.1,PA,80 kVp (pediatric),100 mA,1100,1500,True
+chest_xray_00850.dicom,Summerstone Medical Center,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,PA,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00851.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Siemens Ysio Max,3.2.0.5,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00852.dicom,Noble Community Hospital,Dr. Emily Johnson,Philips DigitalDiagnost,1.7.3,AP,120 kVp,400 mA,1500,1100,True
+chest_xray_00853.dicom,Animas Medical Clinic,Dr. Emily Johnson,GE Healthcare Discovery XR656,2.0.0.8,PA,120 kVp,200 mA,1100,1300,True
+chest_xray_00854.dicom,Stillwater General Hospital,Dr. Sarah Anderson,GE Healthcare Discovery XR656,3.2.0.5,AP,140 kVp,100 mA,1500,1900,True
+chest_xray_00855.dicom,Stillwater General Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.0.1,AP,120 kVp,200 mA,1500,1300,True
+chest_xray_00856.dicom,Rosemary General Hospital,Dr. Laura Smith,Siemens Ysio Max,2.1.3.4,PA,140 kVp,100 mA,1300,1900,True
+chest_xray_00857.dicom,Stillwater Community Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,80 kVp (pediatric),Automatic exposure control (AEC),1300,1500,False
+chest_xray_00858.dicom,Grand Meadow Medical Center,Dr. Emily Johnson,Siemens Ysio Max,2.1.3.4,AP,120 kVp,200 mA,1100,1300,True
+chest_xray_00859.dicom,Love Hospital Center,Dr. Jennifer Carter,Philips DigitalDiagnost,2.1.3.4,AP,100 kVp,400 mA,1300,1300,True
+chest_xray_00860.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,1.7.3,AP,100 kVp,200 mA,2000,1800,False
+chest_xray_00861.dicom,Noble Community Hospital,Dr. Brian Wilson,Toshiba Infinix-i Sky,4.1.6.3,PA,80 kVp (pediatric),Automatic exposure control (AEC),1300,1000,True
+chest_xray_00862.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Siemens Ysio Max,4.1.6.3,PA,100 kVp,200 mA,1500,1000,True
+chest_xray_00863.dicom,Animas Medical Clinic,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.0.1,AP,Variable kVp,200 mA,2000,1800,False
+chest_xray_00864.dicom,Trinity Clinic,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,100 kVp,100 mA,2000,1800,False
+chest_xray_00865.dicom,Stillwater General Hospital,Dr. Kevin Walker,Toshiba Infinix-i Sky,2.1.3.4,AP,Variable kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00866.dicom,Riverside Community Hospital,Dr. David Lee,Philips DigitalDiagnost,3.2.0.5,PA,100 kVp,100 mA,1100,1500,False
+chest_xray_00867.dicom,Love Hospital Center,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,Variable kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00868.dicom,Noble Community Hospital,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,80 kVp (pediatric),400 mA,1100,1300,True
+chest_xray_00869.dicom,Rosemary General Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,4.1.6.3,PA,140 kVp,200 mA,1500,1500,True
+chest_xray_00870.dicom,Stillwater Community Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,3.2.0.5,PA,80 kVp (pediatric),100 mA,1300,1100,True
+chest_xray_00871.dicom,Animas Medical Clinic,Dr. Brian Wilson,Toshiba Infinix-i Sky,3.2.0.5,PA,120 kVp,Automatic exposure control (AEC),1100,1900,True
+chest_xray_00872.dicom,Summerstone Medical Center,Dr. Michael Patel,Siemens Ysio Max,2.1.3.4,PA,100 kVp,Automatic exposure control (AEC),1900,1300,True
+chest_xray_00873.dicom,Love Hospital Center,Dr. Jennifer Carter,Siemens Ysio Max,2.1.3.4,PA,120 kVp,200 mA,2000,1800,False
+chest_xray_00874.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Toshiba Infinix-i Sky,2.1.3.4,AP,140 kVp,200 mA,1300,1900,True
+chest_xray_00875.dicom,Love Hospital Center,Dr. Jennifer Carter,Siemens Ysio Max,1.7.3,AP,140 kVp,200 mA,2000,1800,False
+chest_xray_00876.dicom,Noble Community Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.0.0.8,AP,140 kVp,Low mA (low-dose),1300,1000,True
+chest_xray_00877.dicom,Riverside Community Hospital,Dr. Christopher Davis,GE Healthcare Discovery XR656,5.5.2.1,PA,100 kVp,400 mA,2000,1800,False
+chest_xray_00878.dicom,Summerstone Medical Center,Dr. Christopher Davis,GE Healthcare Discovery XR656,4.1.6.3,PA,120 kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00879.dicom,Stillwater Community Hospital,Dr. Jennifer Carter,GE Healthcare Discovery XR656,3.2.0.5,PA,80 kVp (pediatric),200 mA,1500,1000,True
+chest_xray_00880.dicom,Noble Community Hospital,Dr. Christopher Davis,Siemens Ysio Max,2.0.0.8,PA,120 kVp,400 mA,1100,1100,True
+chest_xray_00881.dicom,Trinity Clinic,Dr. Michael Patel,Siemens Ysio Max,5.5.2.1,AP,Variable kVp,200 mA,1100,1000,True
+chest_xray_00882.dicom,Noble Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.0.1,PA,80 kVp (pediatric),Low mA (low-dose),1100,1100,True
+chest_xray_00883.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,GE Healthcare Discovery XR656,2.0.0.8,PA,120 kVp,Automatic exposure control (AEC),1500,1000,True
+chest_xray_00884.dicom,Stillwater General Hospital,Dr. David Lee,Toshiba Infinix-i Sky,4.0.1,PA,Variable kVp,Low mA (low-dose),1900,1500,False
+chest_xray_00885.dicom,Stillwater Community Hospital,Dr. Michael Patel,Philips DigitalDiagnost,5.5.2.1,AP,140 kVp,100 mA,1300,1000,True
+chest_xray_00886.dicom,Riverside Community Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,4.0.1,PA,140 kVp,100 mA,1900,1900,True
+chest_xray_00887.dicom,Stillwater General Hospital,Dr. Michael Patel,GE Healthcare Discovery XR656,5.5.2.1,PA,Variable kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00888.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Philips DigitalDiagnost,1.7.3,PA,100 kVp,100 mA,1300,1500,True
+chest_xray_00889.dicom,Stillwater General Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,3.2.0.5,AP,Variable kVp,200 mA,1500,1900,True
+chest_xray_00890.dicom,Noble Community Hospital,Dr. David Lee,Siemens Ysio Max,4.1.6.3,PA,Variable kVp,200 mA,1900,1100,False
+chest_xray_00891.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,2.1.3.4,AP,140 kVp,100 mA,2000,1800,False
+chest_xray_00892.dicom,Love Hospital Center,Dr. Laura Smith,Philips DigitalDiagnost,4.1.6.3,AP,120 kVp,Automatic exposure control (AEC),1300,1000,True
+chest_xray_00893.dicom,Stillwater General Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,4.1.6.3,AP,80 kVp (pediatric),400 mA,1900,1000,True
+chest_xray_00894.dicom,Stillwater Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,3.2.0.5,PA,Variable kVp,400 mA,1500,1500,True
+chest_xray_00895.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Siemens Ysio Max,5.5.2.1,AP,120 kVp,Automatic exposure control (AEC),1300,1000,True
+chest_xray_00896.dicom,Noble Community Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,5.5.2.1,PA,120 kVp,Automatic exposure control (AEC),1100,1000,True
+chest_xray_00897.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Toshiba Infinix-i Sky,5.5.2.1,AP,140 kVp,200 mA,1100,1100,True
+chest_xray_00898.dicom,Riverside Community Hospital,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,120 kVp,Automatic exposure control (AEC),2000,1800,False
+chest_xray_00899.dicom,Trinity Clinic,Dr. Christopher Davis,GE Healthcare Discovery XR656,2.0.0.8,AP,120 kVp,200 mA,1900,1300,True
+chest_xray_00900.dicom,Stillwater Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,2.1.3.4,PA,80 kVp (pediatric),200 mA,1500,1900,True
+chest_xray_00901.dicom,Animas Medical Clinic,Dr. Michael Patel,Toshiba Infinix-i Sky,1.7.3,AP,Variable kVp,100 mA,1100,1300,True
+chest_xray_00902.dicom,Love Hospital Center,Dr. Jessica Martinez,Philips DigitalDiagnost,4.0.1,PA,140 kVp,Automatic exposure control (AEC),1300,1300,True
+chest_xray_00903.dicom,Grand Meadow Medical Center,Dr. David Lee,Toshiba Infinix-i Sky,1.7.3,PA,120 kVp,400 mA,1100,1000,False
+chest_xray_00904.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,120 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00905.dicom,Stillwater Community Hospital,Dr. Laura Smith,Siemens Ysio Max,5.5.2.1,PA,140 kVp,100 mA,1900,1100,True
+chest_xray_00906.dicom,Rosemary General Hospital,Dr. Kevin Walker,Siemens Ysio Max,4.0.1,AP,140 kVp,200 mA,1500,1500,True
+chest_xray_00907.dicom,Stillwater Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,2.1.3.4,PA,Variable kVp,400 mA,1100,1100,True
+chest_xray_00908.dicom,Rosemary General Hospital,Dr. Jessica Martinez,Siemens Ysio Max,4.1.6.3,AP,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00909.dicom,Stillwater Community Hospital,Dr. Michael Patel,Siemens Ysio Max,2.1.3.4,PA,120 kVp,Low mA (low-dose),1300,1500,True
+chest_xray_00910.dicom,Animas Medical Clinic,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,140 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00911.dicom,Love Hospital Center,Dr. Emily Johnson,Philips DigitalDiagnost,3.2.0.5,AP,100 kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00912.dicom,Stillwater Community Hospital,Dr. Brian Wilson,Philips DigitalDiagnost,4.0.1,AP,120 kVp,100 mA,1900,1900,True
+chest_xray_00913.dicom,Riverside Community Hospital,Dr. Brian Wilson,Siemens Ysio Max,5.5.2.1,PA,Variable kVp,Low mA (low-dose),1500,1500,True
+chest_xray_00914.dicom,Riverside Community Hospital,Dr. Brian Wilson,GE Healthcare Discovery XR656,4.1.6.3,PA,Variable kVp,Low mA (low-dose),1500,1900,True
+chest_xray_00915.dicom,Stillwater General Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,PA,80 kVp (pediatric),100 mA,1900,1900,True
+chest_xray_00916.dicom,Love Hospital Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,80 kVp (pediatric),100 mA,1900,1900,True
+chest_xray_00917.dicom,Trinity Clinic,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,5.5.2.1,AP,Variable kVp,100 mA,1100,1100,True
+chest_xray_00918.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Toshiba Infinix-i Sky,2.1.3.4,AP,140 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00919.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,2.1.3.4,AP,80 kVp (pediatric),Automatic exposure control (AEC),1300,1000,True
+chest_xray_00920.dicom,Love Hospital Center,Dr. Emily Johnson,Siemens Ysio Max,1.7.3,AP,120 kVp,200 mA,2000,1800,False
+chest_xray_00921.dicom,Summerstone Medical Center,Dr. Jennifer Carter,Philips DigitalDiagnost,3.2.0.5,AP,80 kVp (pediatric),400 mA,1300,1000,True
+chest_xray_00922.dicom,Summerstone Medical Center,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,4.0.1,PA,80 kVp (pediatric),100 mA,1500,1900,True
+chest_xray_00923.dicom,Love Hospital Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,140 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00924.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,GE Healthcare Discovery XR656,2.0.0.8,AP,100 kVp,200 mA,1100,1500,True
+chest_xray_00925.dicom,Noble Community Hospital,Dr. Jennifer Carter,Philips DigitalDiagnost,4.0.1,AP,100 kVp,100 mA,2000,1800,False
+chest_xray_00926.dicom,Trinity Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,4.1.6.3,PA,140 kVp,400 mA,1900,1300,True
+chest_xray_00927.dicom,Grand Meadow Medical Center,Dr. Jessica Martinez,Philips DigitalDiagnost,4.0.1,AP,80 kVp (pediatric),100 mA,1500,1000,True
+chest_xray_00928.dicom,Summerstone Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,AP,Variable kVp,200 mA,1100,1100,True
+chest_xray_00929.dicom,Trinity Clinic,Dr. David Lee,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,140 kVp,400 mA,1300,1300,False
+chest_xray_00930.dicom,Grand Meadow Medical Center,Dr. Michael Patel,Philips DigitalDiagnost,4.1.6.3,AP,80 kVp (pediatric),100 mA,1900,1300,True
+chest_xray_00931.dicom,Stillwater Community Hospital,Dr. Brian Wilson,Siemens Ysio Max,3.2.0.5,AP,Variable kVp,100 mA,1100,1100,True
+chest_xray_00932.dicom,Stillwater Community Hospital,Dr. Michael Patel,Toshiba Infinix-i Sky,2.0.0.8,PA,Variable kVp,Automatic exposure control (AEC),1900,1900,True
+chest_xray_00933.dicom,Grand Meadow Medical Center,Dr. Brian Wilson,Philips DigitalDiagnost,5.5.2.1,AP,100 kVp,200 mA,1900,1900,True
+chest_xray_00934.dicom,Stillwater General Hospital,Dr. Christopher Davis,Philips DigitalDiagnost,3.2.0.5,PA,120 kVp,Low mA (low-dose),1900,1100,True
+chest_xray_00935.dicom,Animas Medical Clinic,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,80 kVp (pediatric),100 mA,1900,1300,True
+chest_xray_00936.dicom,Trinity Clinic,Dr. Kevin Walker,GE Healthcare Discovery XR656,5.5.2.1,AP,Variable kVp,Automatic exposure control (AEC),1500,1100,True
+chest_xray_00937.dicom,Love Hospital Center,Dr. Kevin Walker,GE Healthcare Discovery XR656,5.5.2.1,AP,140 kVp,200 mA,1900,1000,True
+chest_xray_00938.dicom,Riverside Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,2.0.0.8,PA,120 kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00939.dicom,Love Hospital Center,Dr. Brian Wilson,Shimadzu Radspeed Pro Edge,4.0.1,AP,80 kVp (pediatric),Automatic exposure control (AEC),2000,1800,False
+chest_xray_00940.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Toshiba Infinix-i Sky,4.1.6.3,AP,120 kVp,Automatic exposure control (AEC),1500,1100,True
+chest_xray_00941.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,GE Healthcare Discovery XR656,2.1.3.4,AP,140 kVp,Low mA (low-dose),1300,1000,True
+chest_xray_00942.dicom,Trinity Clinic,Dr. Christopher Davis,Siemens Ysio Max,3.2.0.5,PA,Variable kVp,400 mA,1900,1000,True
+chest_xray_00943.dicom,Rosemary General Hospital,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,3.2.0.5,AP,120 kVp,400 mA,2000,1800,False
+chest_xray_00944.dicom,Stillwater Community Hospital,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,Low mA (low-dose),1100,1500,True
+chest_xray_00945.dicom,Stillwater Community Hospital,Dr. Christopher Davis,Toshiba Infinix-i Sky,3.2.0.5,PA,140 kVp,100 mA,2000,1800,False
+chest_xray_00946.dicom,Stillwater Community Hospital,Dr. Kevin Walker,Philips DigitalDiagnost,1.7.3,PA,100 kVp,200 mA,1100,1500,True
+chest_xray_00947.dicom,Animas Medical Clinic,Dr. Emily Johnson,Siemens Ysio Max,2.1.3.4,AP,140 kVp,Automatic exposure control (AEC),1500,1000,True
+chest_xray_00948.dicom,Noble Community Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,1.7.3,AP,Variable kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00949.dicom,Rosemary General Hospital,Dr. David Lee,GE Healthcare Discovery XR656,2.0.0.8,PA,Variable kVp,400 mA,1900,1000,False
+chest_xray_00950.dicom,Grand Meadow Medical Center,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,4.0.1,PA,80 kVp (pediatric),Low mA (low-dose),1500,1000,True
+chest_xray_00951.dicom,Stillwater Community Hospital,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,4.0.1,AP,Variable kVp,100 mA,1900,1900,True
+chest_xray_00952.dicom,Rosemary General Hospital,Dr. Kevin Walker,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,120 kVp,400 mA,1100,1300,True
+chest_xray_00953.dicom,Stillwater General Hospital,Dr. Michael Patel,Philips DigitalDiagnost,2.0.0.8,PA,80 kVp (pediatric),400 mA,1300,1000,True
+chest_xray_00954.dicom,Riverside Community Hospital,Dr. Jessica Martinez,GE Healthcare Discovery XR656,2.1.3.4,PA,120 kVp,400 mA,1300,1000,True
+chest_xray_00955.dicom,Animas Medical Clinic,Dr. Brian Wilson,GE Healthcare Discovery XR656,3.2.0.5,PA,Variable kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00956.dicom,Rosemary General Hospital,Dr. Michael Patel,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,80 kVp (pediatric),100 mA,1100,1500,True
+chest_xray_00957.dicom,Love Hospital Center,Dr. Laura Smith,Toshiba Infinix-i Sky,1.7.3,PA,120 kVp,400 mA,1300,1300,True
+chest_xray_00958.dicom,Stillwater Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.1.6.3,PA,100 kVp,200 mA,1500,1000,True
+chest_xray_00959.dicom,Animas Medical Clinic,Dr. Jessica Martinez,GE Healthcare Discovery XR656,4.0.1,AP,140 kVp,400 mA,1500,1900,True
+chest_xray_00960.dicom,Grand Meadow Medical Center,Dr. Sarah Anderson,Shimadzu Radspeed Pro Edge,1.7.3,PA,120 kVp,400 mA,1300,1500,True
+chest_xray_00961.dicom,Stillwater Community Hospital,Dr. David Lee,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,140 kVp,200 mA,1100,1900,False
+chest_xray_00962.dicom,Love Hospital Center,Dr. David Lee,Siemens Ysio Max,1.7.3,AP,120 kVp,400 mA,1300,1100,False
+chest_xray_00963.dicom,Riverside Community Hospital,Dr. Emily Johnson,GE Healthcare Discovery XR656,4.1.6.3,PA,140 kVp,400 mA,1300,1300,True
+chest_xray_00964.dicom,Stillwater General Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,3.2.0.5,PA,140 kVp,100 mA,1300,1000,True
+chest_xray_00965.dicom,Noble Community Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,4.1.6.3,AP,140 kVp,400 mA,1100,1900,True
+chest_xray_00966.dicom,Stillwater General Hospital,Dr. Kevin Walker,GE Healthcare Discovery XR656,2.1.3.4,AP,140 kVp,Low mA (low-dose),1100,1000,True
+chest_xray_00967.dicom,Love Hospital Center,Dr. Kevin Walker,Philips DigitalDiagnost,1.7.3,PA,100 kVp,100 mA,2000,1800,False
+chest_xray_00968.dicom,Summerstone Medical Center,Dr. David Lee,Philips DigitalDiagnost,4.0.1,PA,Variable kVp,Low mA (low-dose),1900,1900,False
+chest_xray_00969.dicom,Animas Medical Clinic,Dr. Laura Smith,Toshiba Infinix-i Sky,4.1.6.3,PA,100 kVp,Automatic exposure control (AEC),1900,1300,True
+chest_xray_00970.dicom,Trinity Clinic,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.1.3.4,PA,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00971.dicom,Noble Community Hospital,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,140 kVp,Low mA (low-dose),1100,1900,True
+chest_xray_00972.dicom,Trinity Clinic,Dr. Brian Wilson,Philips DigitalDiagnost,4.1.6.3,AP,80 kVp (pediatric),100 mA,2000,1800,False
+chest_xray_00973.dicom,Stillwater General Hospital,Dr. Laura Smith,GE Healthcare Discovery XR656,4.0.1,PA,120 kVp,Low mA (low-dose),1900,1900,True
+chest_xray_00974.dicom,Noble Community Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,2.1.3.4,AP,80 kVp (pediatric),100 mA,1500,1900,True
+chest_xray_00975.dicom,Rosemary General Hospital,Dr. Sarah Anderson,Philips DigitalDiagnost,1.7.3,AP,100 kVp,Low mA (low-dose),1500,1100,True
+chest_xray_00976.dicom,Grand Meadow Medical Center,Dr. Laura Smith,Siemens Ysio Max,4.0.1,AP,80 kVp (pediatric),100 mA,1300,1500,True
+chest_xray_00977.dicom,Stillwater General Hospital,Dr. Kevin Walker,Siemens Ysio Max,2.0.0.8,AP,100 kVp,100 mA,2000,1800,False
+chest_xray_00978.dicom,Love Hospital Center,Dr. Kevin Walker,Toshiba Infinix-i Sky,4.1.6.3,AP,140 kVp,100 mA,1900,1100,True
+chest_xray_00979.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Siemens Ysio Max,2.0.0.8,PA,100 kVp,Automatic exposure control (AEC),1500,1900,True
+chest_xray_00980.dicom,Stillwater General Hospital,Dr. Emily Johnson,Toshiba Infinix-i Sky,4.1.6.3,AP,140 kVp,200 mA,1500,1900,True
+chest_xray_00981.dicom,Rosemary General Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.0.0.8,AP,80 kVp (pediatric),Automatic exposure control (AEC),1500,1900,True
+chest_xray_00982.dicom,Animas Medical Clinic,Dr. Emily Johnson,GE Healthcare Discovery XR656,2.1.3.4,AP,Variable kVp,Low mA (low-dose),2000,1800,False
+chest_xray_00983.dicom,Stillwater General Hospital,Dr. Laura Smith,Siemens Ysio Max,5.5.2.1,PA,140 kVp,Low mA (low-dose),1300,1300,True
+chest_xray_00984.dicom,Grand Meadow Medical Center,Dr. Christopher Davis,Philips DigitalDiagnost,5.5.2.1,AP,120 kVp,200 mA,1900,1500,True
+chest_xray_00985.dicom,Stillwater Community Hospital,Dr. Laura Smith,Philips DigitalDiagnost,4.0.1,AP,120 kVp,Automatic exposure control (AEC),1100,1100,True
+chest_xray_00986.dicom,Trinity Clinic,Dr. Jennifer Carter,Siemens Ysio Max,4.1.6.3,AP,120 kVp,200 mA,1900,1500,True
+chest_xray_00987.dicom,Noble Community Hospital,Dr. David Lee,Siemens Ysio Max,4.0.1,PA,100 kVp,100 mA,1900,1300,False
+chest_xray_00988.dicom,Riverside Community Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,80 kVp (pediatric),200 mA,1100,1500,True
+chest_xray_00989.dicom,Trinity Clinic,Dr. Christopher Davis,Shimadzu Radspeed Pro Edge,4.0.1,PA,100 kVp,400 mA,1100,1900,True
+chest_xray_00990.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,140 kVp,400 mA,2000,1800,False
+chest_xray_00991.dicom,Riverside Community Hospital,Dr. Emily Johnson,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,120 kVp,Automatic exposure control (AEC),1300,1900,True
+chest_xray_00992.dicom,Summerstone Medical Center,Dr. Laura Smith,Shimadzu Radspeed Pro Edge,5.5.2.1,PA,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00993.dicom,Animas Medical Clinic,Dr. Sarah Anderson,Philips DigitalDiagnost,4.1.6.3,AP,80 kVp (pediatric),400 mA,2000,1800,False
+chest_xray_00994.dicom,Stillwater Community Hospital,Dr. Jessica Martinez,Philips DigitalDiagnost,3.2.0.5,PA,140 kVp,Automatic exposure control (AEC),1300,1900,True
+chest_xray_00995.dicom,Noble Community Hospital,Dr. Jennifer Carter,Shimadzu Radspeed Pro Edge,2.0.0.8,PA,120 kVp,Automatic exposure control (AEC),1300,1100,True
+chest_xray_00996.dicom,Summerstone Medical Center,Dr. Kevin Walker,Siemens Ysio Max,2.1.3.4,PA,80 kVp (pediatric),Low mA (low-dose),1500,1000,True
+chest_xray_00997.dicom,Rosemary General Hospital,Dr. Brian Wilson,Siemens Ysio Max,4.1.6.3,PA,140 kVp,Automatic exposure control (AEC),1100,1500,True
+chest_xray_00998.dicom,Stillwater General Hospital,Dr. Sarah Anderson,Siemens Ysio Max,2.0.0.8,AP,120 kVp,100 mA,2000,1800,False
+chest_xray_00999.dicom,Love Hospital Center,Dr. Kevin Walker,GE Healthcare Discovery XR656,5.5.2.1,PA,120 kVp,Low mA (low-dose),1100,1000,True
