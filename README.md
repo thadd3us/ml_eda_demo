@@ -34,11 +34,11 @@ Micromamba is a faster conda implementation.  See:
 git clone git@github.com:thadd3us/ml_eda_demo.git
 ```
 
-### Create the conda/micromamba environment
+#### Create the conda/micromamba environment
 
 ```bash
 cd ml_eda_demo
-micromamba remove --name ml_eda_demo --all  # Optional cleanup if you already did this.
+micromamba remove --name ml_eda_demo --all  # Optional cleanup if you already created the environment once.
 micromamba env create -f environment.yml
 ```
 
