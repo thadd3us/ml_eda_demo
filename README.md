@@ -46,7 +46,7 @@ micromamba env create -f environment.yml
 
 I'm not really sure, I haven't used Windows in ages :)
 
-If you use Windows and have trouble adapting the Mac steps above, please let me know, I might be able to help.
+If you use Windows and have trouble adapting the Mac steps above, please let me know, I might be able to help.  Feel free to use `conda` instead of `micromamba`, especially if you have it already.
 
 ---
 # SETUP ENDS HERE
