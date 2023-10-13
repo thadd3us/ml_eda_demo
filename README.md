@@ -1,50 +1,63 @@
-# Machine Learning and Exploratory Data Analysis Demo
+# Machine Learning (ML) and Exploratory Data Analysis (EDA) Demo
+
+* This repository is for a hands-on ML presentation in October 2023 for the Tropini Lab.
+* Please 
 
 ## Setup
 
-You will need a working conda installation.
+### Macos setup
 
-I recommend micromamba, a faster conda implementation.
+Suggested setup:
 
-See: 
-* https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html
-* https://mamba.readthedocs.io/en/latest/micromamba-installation.html#umamba-install
+#### Get [homebrew](https://brew.sh/)
 
-### Macos
-
-#### Get homebrew (if you don't have it)
 See: https://brew.sh/
-```sh
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-```sh
-brew install micromamba
+#### Get git and micromamba
+
+```bash
+brew install git micromamba
 # Then run the command it tells you to add micromamba to your shell.
 ```
 
-### Clone the repo
+Micromamba is a faster conda implementation.  See: 
+* https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html
+* https://mamba.readthedocs.io/en/latest/micromamba-installation.html#umamba-install
 
-```sh
+
+#### Clone the repo
+
+```bash
 git clone ???
 cd
 ```
 
 ### Create the environment (once per machine)
 
-```sh
-# Optional cleanup if you already did this.
-micromamba remove --name ml_eda_demo --all
+```bash
+micromamba remove --name ml_eda_demo --all  # Optional cleanup if you already did this.
 micromamba env create -f environment.yml
 ```
 
+### Windows setup
+
+I'm not really sure.
+
+If you use Windows and have trouble adapting the Mac steps above, please let me know.
+
+
+## Running things in the environment
+
 ### Activate the environment (once per terminal session)
 
-```sh
+```bash
 conda activate ml_eda_demo
 ```
 
-```sh
+```bash
 jupyter notebook \
     --NotebookApp.allow_origin='https://colab.research.google.com' \
     --port=8888 \
