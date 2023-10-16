@@ -31,7 +31,7 @@ Micromamba is a faster conda implementation.  See:
 #### Clone the repo
 
 ```bash
-git clone git@github.com:thadd3us/ml_eda_demo.git
+git clone git clone https://github.com/thadd3us/ml_eda_demo.git
 ```
 
 #### Create the conda/micromamba environment
