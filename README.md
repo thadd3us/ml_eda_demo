@@ -1,10 +1,10 @@
 # Machine Learning (ML) and Exploratory Data Analysis (EDA) Demo
 
-* This repository part of a hands-on ML presentation and tutorial in October 2023 for the Tropini Lab.
+* This is part of a hands-on ML presentation and tutorial in October 2023 for the Tropini Lab.
 * Associated resources:
     * [Slide deck](https://docs.google.com/presentation/d/1KCmILduQ3Cfv5Psgfow16nCY8aTlLbpGv33RL33kqyE/edit?usp=sharing).
     * [Colab notebook](https://colab.research.google.com/drive/10L6kWoBz_7QzPyk56qM-PK5TqemqqwTl?usp=sharing)
-    * [GitHub repo](https://github.com/thadd3us/ml_eda_demo/)
+    * [GitHub repo](https://github.com/thadd3us/ml_eda_demo/)    
 * Before the talk, please go through the setup steps to get a working conda environment on your machine prior to the presentation.
 
 ## Setup
