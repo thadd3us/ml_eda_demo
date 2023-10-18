@@ -1,7 +1,8 @@
 # Machine Learning (ML) and Exploratory Data Analysis (EDA) Demo
 
-* This repository is for a hands-on ML presentation in October 2023 for the Tropini Lab.
-* Please go through the setup steps to get a working conda environment on your machine prior to the presentation.
+* This repository part of a hands-on ML presentation and tutorial in October 2023 for the Tropini Lab.
+* The associated slide deck is [here](https://docs.google.com/presentation/d/1KCmILduQ3Cfv5Psgfow16nCY8aTlLbpGv33RL33kqyE/edit?usp=sharing).
+* Before the talk, please go through the setup steps to get a working conda environment on your machine prior to the presentation.
 
 ## Setup
 
